@@ -63,7 +63,8 @@
     },
     "errors": {},
     "manualPost": "2026-10-22 test post, instagram only (re-encoded file)",
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "assetDeleted": true
   },
   {
     "id": "musk_aliens_01",
@@ -209,7 +210,8 @@
     },
     "errors": {},
     "manualPost": "2026-10-22 test post, instagram only",
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "assetDeleted": true
   },
   {
     "id": "musk_scifi_08",
@@ -365,8 +367,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1799080341290687"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "chatgpt_text_02",
@@ -378,8 +383,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1628129829049742"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "deepika_notokay_01",
@@ -391,8 +399,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "859605127210050"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "hollywood_selftape_02",
@@ -404,8 +415,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2304601026611603"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "huang_radiology_01",
