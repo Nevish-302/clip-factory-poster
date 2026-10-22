@@ -431,8 +431,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1785014566166450"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "jackma_hollywood_02",
@@ -444,8 +447,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1105365445610767"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "musk_sun_05",
@@ -457,8 +463,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "954438647321263"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "pichai_risk_04",
@@ -470,7 +479,10 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1706617364377446"
+    },
+    "errors": {},
+    "facebookScheduled": true
   }
 ]
