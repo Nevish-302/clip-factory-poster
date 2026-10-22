@@ -36,6 +36,8 @@ jobs:
         run: node post-due.mjs
       - name: Schedule remaining Facebook Reels
         run: node fb-schedule.mjs --limit 4
+      - name: Delete videos that are done everywhere
+        run: node prune.mjs
       - name: Save state
         run: |
           git config user.name "clip-poster"
