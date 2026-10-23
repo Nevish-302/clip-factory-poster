@@ -1,14 +1,12 @@
 name: post
-# Instagram Reels are posted at their slot (13:00 and 20:00 IST); Facebook Reels are scheduled natively on Meta.
-# Cron is UTC and GitHub may delay it by 10+ minutes; a late run still posts what is due, never twice.
-# Few runs per day on purpose: a private repo has 2,000 free minutes a month.
+# Instagram Reels are posted at their slot (09:00, 13:00 and 20:00 IST); Facebook Reels are scheduled natively on Meta.
+# Cron is UTC. GitHub delayed scheduled runs by up to about 5 hours on this quiet repo, so it runs every 30 minutes
+# in the posting window to get many chances; a late run still posts what is due, never twice.
+# About 31 runs a day is about 930 minutes a month: a private repo has 2,000 free minutes.
 on:
   schedule:
-    - cron: "35 7 * * *"    # 13:05 IST
-    - cron: "5 8 * * *"     # 13:35 IST (retry)
-    - cron: "35 14 * * *"   # 20:05 IST
-    - cron: "5 15 * * *"    # 20:35 IST (retry)
-    - cron: "0 20 * * *"    # 01:30 IST: finish scheduling Facebook Reels
+    - cron: "*/30 3-17 * * *"   # every 30 min, 08:30 to 23:00 IST: covers the 09:00, 13:00 and 20:00 IST slots
+    - cron: "0 20 * * *"        # 01:30 IST: finish scheduling Facebook Reels
   workflow_dispatch: {}
 
 concurrency:
