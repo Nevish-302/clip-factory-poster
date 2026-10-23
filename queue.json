@@ -8,12 +8,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "29225208747092225"
+      "facebook_reel": "29225208747092225",
+      "instagram_reel": "18073917686485878"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-23T12:49:28.442Z",
+    "assetDeleted": true
   },
   {
     "id": "hollywood_review_03",
