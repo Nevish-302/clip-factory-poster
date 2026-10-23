@@ -501,8 +501,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2072781946704011"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma18_iq_01",
@@ -514,8 +517,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1770555487502704"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "harari_hack_01",
@@ -527,8 +533,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "4763023687263230"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nadella_farmer_01",
@@ -540,8 +549,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1937898560505111"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "mills_debut_01",
