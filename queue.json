@@ -27,12 +27,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1750592356053311"
+      "facebook_reel": "1750592356053311",
+      "instagram_reel": "17908761450332357"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-23T15:26:48.120Z",
+    "assetDeleted": true
   },
   {
     "id": "musk_ai_02",
