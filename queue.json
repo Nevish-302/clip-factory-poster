@@ -629,8 +629,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2039103336806175"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nadella_copilot_02",
@@ -642,8 +645,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1132635636394392"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "mills_grateful_02",
@@ -655,8 +661,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1997786824250962"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "karp_bubble_02",
@@ -668,8 +677,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1010153161451273"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma15_search_03",
