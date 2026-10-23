@@ -490,5 +490,395 @@
     },
     "errors": {},
     "facebookScheduled": true
+  },
+  {
+    "id": "ma15_rejected_01",
+    "file": "ma15_rejected_01.mp4",
+    "caption": "Jack Ma says he applied for about 30 jobs and was turned down, including KFC, where 23 of 24 applicants were hired, and Harvard, ten times.\n\nSource: Jack Ma: I've Had Lots Of Failures And Rejections, Davos 2015, World Economic Forum (CC BY) https://www.youtube.com/watch?v=1O3ghiyirvU\n\n#JackMa #Alibaba #Rejection #Entrepreneur #NeverGiveUp #Reels",
+    "scheduledFor": "2026-11-02T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma18_iq_01",
+    "file": "ma18_iq_01.mp4",
+    "caption": "Jack Ma's three Qs: a high IQ so you don't lose quickly, EQ to be successful, and LQ, the Q of love, to be respected.\n\nSource: Jack Ma: Love is Important In Business, Davos 2018, World Economic Forum (CC BY) https://www.youtube.com/watch?v=4zzVjonyHcQ\n\n#JackMa #Leadership #EQ #IQ #Reels",
+    "scheduledFor": "2026-11-02T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "harari_hack_01",
+    "file": "harari_hack_01.mp4",
+    "caption": "Yuval Noah Harari's equation: biological knowledge x computing power x data = the ability to hack humans.\n\nSource: How to Survive the 21st Century, Davos 2020, World Economic Forum (CC BY) https://www.youtube.com/watch?v=eOsKFOrW5h8\n\n#YuvalNoahHarari #AI #Data #Privacy #Davos #Reels",
+    "scheduledFor": "2026-11-03T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "nadella_farmer_01",
+    "file": "nadella_farmer_01.mp4",
+    "caption": "Satya Nadella describes a demo in India: a farmer asked in his own language for a government program, and a bot built on GPT helped him access it.\n\nSource: A Conversation with Satya Nadella, Davos 2023, World Economic Forum (CC BY) https://www.youtube.com/watch?v=TSLcA66QgMY\n\n#SatyaNadella #Microsoft #AI #GPT #India #Reels",
+    "scheduledFor": "2026-11-03T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "mills_debut_01",
+    "file": "mills_debut_01.mp4",
+    "caption": "Juliet Mills made her film debut at 11 weeks old, in a film starring her father and directed by Noel Coward, her godfather.\n\nSource: Still Here Hollywood Podcast w/ Steve Kmetko: Juliet Mills (CC BY) https://www.youtube.com/watch?v=plGEBbvEOKY\n\n#JulietMills #Hollywood #NannyAndTheProfessor #Podcast #Reels",
+    "scheduledFor": "2026-11-03T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "karp_offshelf_01",
+    "file": "karp_offshelf_01.mp4",
+    "caption": "Palantir's Alex Karp says buying a large language model off the shelf won't work. You need a layer that speaks your enterprise's language.\n\nSource: Conversation with Alex Karp, World Economic Forum (CC BY) https://www.youtube.com/watch?v=_fqxZKdb3J0\n\n#AlexKarp #Palantir #AI #LLM #Davos #Reels",
+    "scheduledFor": "2026-11-04T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma15_english_02",
+    "file": "ma15_english_02.mp4",
+    "caption": "Jack Ma learned English by showing foreign visitors around a Hangzhou hotel as a free guide, every morning for nine years.\n\nSource: Jack Ma: I've Had Lots Of Failures And Rejections, Davos 2015, World Economic Forum (CC BY) https://www.youtube.com/watch?v=1O3ghiyirvU\n\n#JackMa #Alibaba #LearnEnglish #Entrepreneur #Reels",
+    "scheduledFor": "2026-11-04T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma18_age_02",
+    "file": "ma18_age_02.mp4",
+    "caption": "Jack Ma on each decade: follow a good boss in your 20s, start your own thing in your 30s, do what you're good at in your 40s, train the next generation in your 50s.\n\nSource: Jack Ma: Love is Important In Business, Davos 2018, World Economic Forum (CC BY) https://www.youtube.com/watch?v=4zzVjonyHcQ\n\n#JackMa #CareerAdvice #Entrepreneur #Reels",
+    "scheduledFor": "2026-11-04T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "harari_irrelevant_02",
+    "file": "harari_irrelevant_02.mp4",
+    "caption": "Harari says the big struggle of the 21st century may be against irrelevance, and that being irrelevant is worse than being exploited.\n\nSource: How to Survive the 21st Century, Davos 2020, World Economic Forum (CC BY) https://www.youtube.com/watch?v=eOsKFOrW5h8\n\n#YuvalNoahHarari #AI #Jobs #FutureOfWork #Reels",
+    "scheduledFor": "2026-11-05T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "nadella_copilot_02",
+    "file": "nadella_copilot_02.mp4",
+    "caption": "Nadella says a developer reported GitHub Copilot now generates 80% of his code. He's still the pilot, the co-pilot helps.\n\nSource: A Conversation with Satya Nadella, Davos 2023, World Economic Forum (CC BY) https://www.youtube.com/watch?v=TSLcA66QgMY\n\n#SatyaNadella #Copilot #GitHub #AI #Coding #Reels",
+    "scheduledFor": "2026-11-05T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "mills_grateful_02",
+    "file": "mills_grateful_02.mp4",
+    "caption": "Juliet Mills on what her father taught her: be grateful. If you feel full of gratefulness, you can't be angry or frightened.\n\nSource: Still Here Hollywood Podcast w/ Steve Kmetko: Juliet Mills (CC BY) https://www.youtube.com/watch?v=plGEBbvEOKY\n\n#JulietMills #Gratitude #Hollywood #Podcast #Reels",
+    "scheduledFor": "2026-11-05T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "karp_bubble_02",
+    "file": "karp_bubble_02.mp4",
+    "caption": "Alex Karp on the AI bubble question: he sees more of a lag. Some AI works, and now the question is how to make it work for you.\n\nSource: Conversation with Alex Karp, World Economic Forum (CC BY) https://www.youtube.com/watch?v=_fqxZKdb3J0\n\n#AlexKarp #Palantir #AIBubble #Davos #Reels",
+    "scheduledFor": "2026-11-06T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma15_search_03",
+    "file": "ma15_search_03.mp4",
+    "caption": "In 1995 Jack Ma searched \"beer\" and \"China\" and found nothing about China. So he built his first website.\n\nSource: Jack Ma: I've Had Lots Of Failures And Rejections, Davos 2015, World Economic Forum (CC BY) https://www.youtube.com/watch?v=1O3ghiyirvU\n\n#JackMa #Alibaba #Internet #Startup #Reels",
+    "scheduledFor": "2026-11-06T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma18_wise_03",
+    "file": "ma18_wise_03.mp4",
+    "caption": "Jack Ma: a smart person sees what others don't see. A wise person knows what they don't want.\n\nSource: Jack Ma: Love is Important In Business, Davos 2018, World Economic Forum (CC BY) https://www.youtube.com/watch?v=4zzVjonyHcQ\n\n#JackMa #Wisdom #AI #Leadership #Reels",
+    "scheduledFor": "2026-11-06T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "harari_algorithm_03",
+    "file": "harari_algorithm_03.mp4",
+    "caption": "Algorithms already tell us what to watch and buy. Harari asks what happens when they decide who gets a job or a loan: \"because the computer says no.\"\n\nSource: How to Survive the 21st Century, Davos 2020, World Economic Forum (CC BY) https://www.youtube.com/watch?v=eOsKFOrW5h8\n\n#YuvalNoahHarari #Algorithms #AI #Davos #Reels",
+    "scheduledFor": "2026-11-07T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "nadella_people_03",
+    "file": "nadella_people_03.mp4",
+    "caption": "Satya Nadella on hybrid work: less dogma, more data, and \"people don't come for policy, they come for people.\"\n\nSource: A Conversation with Satya Nadella, Davos 2023, World Economic Forum (CC BY) https://www.youtube.com/watch?v=TSLcA66QgMY\n\n#SatyaNadella #Microsoft #FutureOfWork #RemoteWork #Reels",
+    "scheduledFor": "2026-11-07T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "mills_oscar_03",
+    "file": "mills_oscar_03.mp4",
+    "caption": "Juliet Mills was with her father the night he won his Oscar for Ryan's Daughter. He jumped out of his seat when they called his name.\n\nSource: Still Here Hollywood Podcast w/ Steve Kmetko: Juliet Mills (CC BY) https://www.youtube.com/watch?v=plGEBbvEOKY\n\n#JulietMills #JohnMills #Oscars #Hollywood #Reels",
+    "scheduledFor": "2026-11-07T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "karp_sales_03",
+    "file": "karp_sales_03.mp4",
+    "caption": "Karp on why Palantir barely has a sales force: if what you deliver works, you don't need one.\n\nSource: Conversation with Alex Karp, World Economic Forum (CC BY) https://www.youtube.com/watch?v=_fqxZKdb3J0\n\n#AlexKarp #Palantir #Business #Sales #Reels",
+    "scheduledFor": "2026-11-08T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma15_alibaba_04",
+    "file": "ma15_alibaba_04.mp4",
+    "caption": "Jack Ma wanted a global name. He asked people on the street and everyone knew Alibaba: open sesame.\n\nSource: Jack Ma: I've Had Lots Of Failures And Rejections, Davos 2015, World Economic Forum (CC BY) https://www.youtube.com/watch?v=1O3ghiyirvU\n\n#JackMa #Alibaba #Branding #Startup #Reels",
+    "scheduledFor": "2026-11-08T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma18_customer_04",
+    "file": "ma18_customer_04.mp4",
+    "caption": "Alibaba's order of priorities, according to Jack Ma: customer first, employees second, shareholders third.\n\nSource: Jack Ma: Love is Important In Business, Davos 2018, World Economic Forum (CC BY) https://www.youtube.com/watch?v=4zzVjonyHcQ\n\n#JackMa #Alibaba #CustomerFirst #Business #Reels",
+    "scheduledFor": "2026-11-08T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "harari_worldcup_04",
+    "file": "harari_worldcup_04.mp4",
+    "caption": "Harari on nationalism and globalism: the football World Cup works because countries agree on global rules. \"If you like the World Cup, you're already a globalist.\"\n\nSource: How to Survive the 21st Century, Davos 2020, World Economic Forum (CC BY) https://www.youtube.com/watch?v=eOsKFOrW5h8\n\n#YuvalNoahHarari #Globalism #WorldCup #Davos #Reels",
+    "scheduledFor": "2026-11-09T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "nadella_learning_04",
+    "file": "nadella_learning_04.mp4",
+    "caption": "Nadella on combining the metaverse with AI: a co-pilot could spot the conceptual mistakes a student makes, as they make them.\n\nSource: A Conversation with Satya Nadella, Davos 2023, World Economic Forum (CC BY) https://www.youtube.com/watch?v=TSLcA66QgMY\n\n#SatyaNadella #AI #Education #Metaverse #Reels",
+    "scheduledFor": "2026-11-09T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "mills_wilder_04",
+    "file": "mills_wilder_04.mp4",
+    "caption": "Juliet Mills on working with Billy Wilder and Jack Lemmon in Italy, where she had to put on 35 pounds.\n\nSource: Still Here Hollywood Podcast w/ Steve Kmetko: Juliet Mills (CC BY) https://www.youtube.com/watch?v=plGEBbvEOKY\n\n#JulietMills #BillyWilder #JackLemmon #Hollywood #Reels",
+    "scheduledFor": "2026-11-09T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "karp_philosophy_04",
+    "file": "karp_philosophy_04.mp4",
+    "caption": "Alex Karp on AI and jobs, and having studied philosophy at an elite school: hopefully you have some other skill.\n\nSource: Conversation with Alex Karp, World Economic Forum (CC BY) https://www.youtube.com/watch?v=_fqxZKdb3J0\n\n#AlexKarp #Palantir #AI #Jobs #Philosophy #Reels",
+    "scheduledFor": "2026-11-10T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma15_taichi_05",
+    "file": "ma15_taichi_05.mp4",
+    "caption": "Jack Ma on tai chi and competition: stay balanced, don't fight head on, and treat business as fun, not a battlefield.\n\nSource: Jack Ma: I've Had Lots Of Failures And Rejections, Davos 2015, World Economic Forum (CC BY) https://www.youtube.com/watch?v=1O3ghiyirvU\n\n#JackMa #Alibaba #TaiChi #Business #Mindset #Reels",
+    "scheduledFor": "2026-11-10T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "ma18_hire_05",
+    "file": "ma18_hire_05.mp4",
+    "caption": "Jack Ma says you don't have to know everything. Find people smarter than you, then make sure they work together.\n\nSource: Jack Ma: Love is Important In Business, Davos 2018, World Economic Forum (CC BY) https://www.youtube.com/watch?v=4zzVjonyHcQ\n\n#JackMa #Hiring #Leadership #Startup #Reels",
+    "scheduledFor": "2026-11-10T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "harari_rats_05",
+    "file": "harari_rats_05.mp4",
+    "caption": "Harari's closing warning: go back to constant war with 21st-century technology and our species might annihilate itself. Maybe then the rats rebuild civilization.\n\nSource: How to Survive the 21st Century, Davos 2020, World Economic Forum (CC BY) https://www.youtube.com/watch?v=eOsKFOrW5h8\n\n#YuvalNoahHarari #History #Technology #Davos #Reels",
+    "scheduledFor": "2026-11-11T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "nadella_inflation_05",
+    "file": "nadella_inflation_05.mp4",
+    "caption": "Satya Nadella says software can be a deflationary force: it can help every business do more with less.\n\nSource: A Conversation with Satya Nadella, Davos 2023, World Economic Forum (CC BY) https://www.youtube.com/watch?v=TSLcA66QgMY\n\n#SatyaNadella #Microsoft #Economy #Software #Reels",
+    "scheduledFor": "2026-11-11T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "mills_nanny_05",
+    "file": "mills_nanny_05.mp4",
+    "caption": "Juliet Mills says fans wanted the nanny and the professor to get together, but 1970s TV was prudish: a long nightgown, and tea instead of scotch.\n\nSource: Still Here Hollywood Podcast w/ Steve Kmetko: Juliet Mills (CC BY) https://www.youtube.com/watch?v=plGEBbvEOKY\n\n#JulietMills #NannyAndTheProfessor #ClassicTV #Hollywood #Reels",
+    "scheduledFor": "2026-11-11T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "karp_aptitude_05",
+    "file": "karp_aptitude_05.mp4",
+    "caption": "Karp says the person managing a key system in the US Army was a former police officer who went to a junior college. His point: we need better ways to test aptitude.\n\nSource: Conversation with Alex Karp, World Economic Forum (CC BY) https://www.youtube.com/watch?v=_fqxZKdb3J0\n\n#AlexKarp #Palantir #Talent #Hiring #Reels",
+    "scheduledFor": "2026-11-12T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
   }
 ]
