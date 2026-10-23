@@ -565,8 +565,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1584786552957370"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "karp_offshelf_01",
@@ -578,8 +581,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1473898754553688"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma15_english_02",
@@ -591,8 +597,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1112666131350682"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma18_age_02",
@@ -604,8 +613,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1749499382807011"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "harari_irrelevant_02",
