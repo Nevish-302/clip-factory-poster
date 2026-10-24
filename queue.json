@@ -760,8 +760,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2675461209576201"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "karp_sales_03",
@@ -773,8 +776,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1424362345832063"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma15_alibaba_04",
@@ -786,8 +792,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1116867397877202"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma18_customer_04",
@@ -799,8 +808,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2184563392417081"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "harari_worldcup_04",
