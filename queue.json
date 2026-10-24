@@ -891,8 +891,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "4378389965824817"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma18_hire_05",
@@ -904,8 +907,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1416140453482944"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "harari_rats_05",
@@ -917,8 +923,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1836128774472092"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nadella_inflation_05",
@@ -930,8 +939,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1087307930991788"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "mills_nanny_05",
