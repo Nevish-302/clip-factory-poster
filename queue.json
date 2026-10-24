@@ -84,12 +84,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1150936957367012"
+      "facebook_reel": "1150936957367012",
+      "instagram_reel": "17919120051452164"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-24T16:07:31.751Z",
+    "assetDeleted": true
   },
   {
     "id": "jackma_amazon_01",
@@ -824,8 +827,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1427527432204082"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nadella_learning_04",
@@ -837,8 +843,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1828816288336310"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "mills_wilder_04",
@@ -850,8 +859,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1556008693236876"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "karp_philosophy_04",
@@ -863,8 +875,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1429321358613508"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma15_taichi_05",
