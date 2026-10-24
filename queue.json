@@ -46,12 +46,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1130332856135116"
+      "facebook_reel": "1130332856135116",
+      "instagram_reel": "18117781985088373"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-24T07:40:53.326Z",
+    "assetDeleted": true
   },
   {
     "id": "huang_code_03",
@@ -693,8 +696,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2200875930809752"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "ma18_wise_03",
@@ -706,8 +712,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1126341729977387"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "harari_algorithm_03",
@@ -719,8 +728,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1124372590343160"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nadella_people_03",
@@ -732,8 +744,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1078898018444218"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "mills_oscar_03",
