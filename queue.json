@@ -955,8 +955,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "4587431421501489"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "karp_aptitude_05",
@@ -968,7 +971,10 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1656028305970487"
+    },
+    "errors": {},
+    "facebookScheduled": true
   }
 ]
