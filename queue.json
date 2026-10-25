@@ -107,7 +107,9 @@
     "results": {
       "facebook_reel": "4739336839724914"
     },
-    "errors": {},
+    "errors": {
+      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
+    },
     "facebookScheduled": true
   },
   {
@@ -123,7 +125,9 @@
     "results": {
       "facebook_reel": "1671913614384897"
     },
-    "errors": {},
+    "errors": {
+      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
+    },
     "facebookScheduled": true
   },
   {
