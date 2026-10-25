@@ -121,14 +121,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1671913614384897"
+      "facebook_reel": "1671913614384897",
+      "instagram_reel": "18089742764253494"
     },
-    "errors": {
-      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
-    },
-    "facebookScheduled": true
+    "errors": {},
+    "facebookScheduled": true,
+    "postedAt": "2026-10-25T19:23:25.036Z",
+    "assetDeleted": true
   },
   {
     "id": "pichai_fire_01",
