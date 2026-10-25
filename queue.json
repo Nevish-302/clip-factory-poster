@@ -144,7 +144,9 @@
     "results": {
       "facebook_reel": "2058422164866849"
     },
-    "errors": {},
+    "errors": {
+      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
+    },
     "facebookScheduled": true
   },
   {
