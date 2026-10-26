@@ -204,12 +204,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1813412809784842"
+      "facebook_reel": "1813412809784842",
+      "instagram_reel": "18082109906361804"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-26T20:48:53.612Z",
+    "assetDeleted": true
   },
   {
     "id": "huang_layers_04",
