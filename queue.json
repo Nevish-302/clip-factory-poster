@@ -103,17 +103,18 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "4739336839724914"
+      "facebook_reel": "4739336839724914",
+      "instagram_reel": "18167897668487671"
     },
-    "errors": {
-      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
-    },
+    "errors": {},
     "facebookScheduled": true,
     "attempts": {
       "instagram_reel": 1
-    }
+    },
+    "postedAt": "2026-10-26T20:45:40.871Z",
+    "assetDeleted": true
   },
   {
     "id": "musk_fsd_09",
@@ -143,17 +144,18 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2058422164866849"
+      "facebook_reel": "2058422164866849",
+      "instagram_reel": "18114394094163715"
     },
-    "errors": {
-      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
-    },
+    "errors": {},
     "facebookScheduled": true,
     "attempts": {
       "instagram_reel": 1
-    }
+    },
+    "postedAt": "2026-10-26T20:46:31.552Z",
+    "assetDeleted": true
   },
   {
     "id": "musk_mars_04",
@@ -183,12 +185,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1130615239484433"
+      "facebook_reel": "1130615239484433",
+      "instagram_reel": "18006775181795203"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-26T20:47:20.370Z",
+    "assetDeleted": true
   },
   {
     "id": "musk_robots_03",
