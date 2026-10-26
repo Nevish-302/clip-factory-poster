@@ -110,7 +110,10 @@
     "errors": {
       "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
     },
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "attempts": {
+      "instagram_reel": 1
+    }
   },
   {
     "id": "musk_fsd_09",
@@ -147,7 +150,10 @@
     "errors": {
       "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
     },
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "attempts": {
+      "instagram_reel": 1
+    }
   },
   {
     "id": "musk_mars_04",
@@ -158,12 +164,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1680518060139914"
+      "facebook_reel": "1680518060139914",
+      "instagram_reel": "18098807825676616"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-26T20:40:26.021Z",
+    "assetDeleted": true
   },
   {
     "id": "hollywood_robards_04",
