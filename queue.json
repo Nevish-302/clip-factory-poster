@@ -223,12 +223,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2661423167624546"
+      "facebook_reel": "2661423167624546",
+      "instagram_reel": "18337830016277995"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-27T08:26:39.982Z",
+    "assetDeleted": true
   },
   {
     "id": "jackma_beach_04",
