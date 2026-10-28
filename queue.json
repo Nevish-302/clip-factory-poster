@@ -318,12 +318,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1562385872240291"
+      "facebook_reel": "1562385872240291",
+      "instagram_reel": "18037261088847679"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-28T16:10:52.136Z",
+    "assetDeleted": true
   },
   {
     "id": "hollywood_robocop_01",
