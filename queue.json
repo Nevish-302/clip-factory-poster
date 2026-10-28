@@ -280,12 +280,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1368893775321843"
+      "facebook_reel": "1368893775321843",
+      "instagram_reel": "18145213819565361"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-28T09:04:20.323Z",
+    "assetDeleted": true
   },
   {
     "id": "chatgpt_prompts_01",
@@ -296,12 +299,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2390842625060264"
+      "facebook_reel": "2390842625060264",
+      "instagram_reel": "18118644598789724"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-28T09:05:00.928Z",
+    "assetDeleted": true
   },
   {
     "id": "deepika_fever_02",
