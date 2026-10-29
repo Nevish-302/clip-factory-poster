@@ -356,17 +356,18 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1675551320946705"
+      "facebook_reel": "1675551320946705",
+      "instagram_reel": "18114439601467613"
     },
-    "errors": {
-      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
-    },
+    "errors": {},
     "facebookScheduled": true,
     "attempts": {
       "instagram_reel": 1
-    }
+    },
+    "postedAt": "2026-10-29T16:17:48.842Z",
+    "assetDeleted": true
   },
   {
     "id": "jackma_forrest_03",
@@ -377,12 +378,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1622832449218348"
+      "facebook_reel": "1622832449218348",
+      "instagram_reel": "17887005516503989"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-29T16:18:27.698Z",
+    "assetDeleted": true
   },
   {
     "id": "musk_spacedc_06",
