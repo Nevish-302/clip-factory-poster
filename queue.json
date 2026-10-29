@@ -337,12 +337,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "879588108497719"
+      "facebook_reel": "879588108497719",
+      "instagram_reel": "18078664823485606"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-29T09:02:03.356Z",
+    "assetDeleted": true
   },
   {
     "id": "huang_purpose_02",
@@ -357,8 +360,13 @@
     "results": {
       "facebook_reel": "1675551320946705"
     },
-    "errors": {},
-    "facebookScheduled": true
+    "errors": {
+      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
+    },
+    "facebookScheduled": true,
+    "attempts": {
+      "instagram_reel": 1
+    }
   },
   {
     "id": "jackma_forrest_03",
