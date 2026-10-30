@@ -435,17 +435,18 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1799080341290687"
+      "facebook_reel": "1799080341290687",
+      "instagram_reel": "18049609676820794"
     },
-    "errors": {
-      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
-    },
+    "errors": {},
     "facebookScheduled": true,
     "attempts": {
       "instagram_reel": 2
-    }
+    },
+    "postedAt": "2026-10-30T23:33:19.024Z",
+    "assetDeleted": true
   },
   {
     "id": "chatgpt_text_02",
