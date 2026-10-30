@@ -439,8 +439,13 @@
     "results": {
       "facebook_reel": "1799080341290687"
     },
-    "errors": {},
-    "facebookScheduled": true
+    "errors": {
+      "instagram_reel": "{\"error\":\"Upload failed (400): {\\\"debug_info\\\":{\\\"retriable\\\":false,\\\"type\\\":\\\"ProcessingFailedError\\\",\\\"message\\\":\\\"Request processing failed\\\"}}\"}\n"
+    },
+    "facebookScheduled": true,
+    "attempts": {
+      "instagram_reel": 1
+    }
   },
   {
     "id": "chatgpt_text_02",
