@@ -397,12 +397,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "966908909826409"
+      "facebook_reel": "966908909826409",
+      "instagram_reel": "18638661346058645"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-30T09:09:47.656Z",
+    "assetDeleted": true
   },
   {
     "id": "pichai_quantum_02",
@@ -413,12 +416,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1798873047989623"
+      "facebook_reel": "1798873047989623",
+      "instagram_reel": "18100155275664322"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-30T09:10:30.665Z",
+    "assetDeleted": true
   },
   {
     "id": "ai_explainer_01",
