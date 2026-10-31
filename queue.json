@@ -457,12 +457,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1628129829049742"
+      "facebook_reel": "1628129829049742",
+      "instagram_reel": "18017185811750647"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-31T09:00:29.673Z",
+    "assetDeleted": true
   },
   {
     "id": "deepika_notokay_01",
@@ -473,12 +476,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "859605127210050"
+      "facebook_reel": "859605127210050",
+      "instagram_reel": "17955631626317690"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-31T09:01:12.052Z",
+    "assetDeleted": true
   },
   {
     "id": "hollywood_selftape_02",
