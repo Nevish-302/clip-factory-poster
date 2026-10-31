@@ -495,12 +495,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2304601026611603"
+      "facebook_reel": "2304601026611603",
+      "instagram_reel": "17975862795168690"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-10-31T15:06:59.807Z",
+    "assetDeleted": true
   },
   {
     "id": "huang_radiology_01",
