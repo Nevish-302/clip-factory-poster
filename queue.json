@@ -514,12 +514,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1785014566166450"
+      "facebook_reel": "1785014566166450",
+      "instagram_reel": "18399303940206731"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-01T09:50:42.937Z",
+    "assetDeleted": true
   },
   {
     "id": "jackma_hollywood_02",
@@ -530,12 +533,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1105365445610767"
+      "facebook_reel": "1105365445610767",
+      "instagram_reel": "18128188270918304"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-01T09:51:25.684Z",
+    "assetDeleted": true
   },
   {
     "id": "musk_sun_05",
