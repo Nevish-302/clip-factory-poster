@@ -552,12 +552,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "954438647321263"
+      "facebook_reel": "954438647321263",
+      "instagram_reel": "18004536836808986"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-01T16:30:17.215Z",
+    "assetDeleted": true
   },
   {
     "id": "pichai_risk_04",
