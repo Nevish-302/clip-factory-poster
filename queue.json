@@ -571,12 +571,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1706617364377446"
+      "facebook_reel": "1706617364377446",
+      "instagram_reel": "18026630855873756"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-02T10:11:16.206Z",
+    "assetDeleted": true
   },
   {
     "id": "ma15_rejected_01",
@@ -587,12 +590,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2072781946704011"
+      "facebook_reel": "2072781946704011",
+      "instagram_reel": "18101065835087988"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-02T10:12:01.467Z",
+    "assetDeleted": true
   },
   {
     "id": "ma18_iq_01",
