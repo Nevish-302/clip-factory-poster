@@ -609,12 +609,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1770555487502704"
+      "facebook_reel": "1770555487502704",
+      "instagram_reel": "17997906531021619"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-02T20:26:06.181Z",
+    "assetDeleted": true
   },
   {
     "id": "harari_hack_01",
