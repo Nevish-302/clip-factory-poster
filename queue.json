@@ -628,12 +628,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "4763023687263230"
+      "facebook_reel": "4763023687263230",
+      "instagram_reel": "17910144522328192"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-03T10:13:04.811Z",
+    "assetDeleted": true
   },
   {
     "id": "nadella_farmer_01",
@@ -644,12 +647,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1937898560505111"
+      "facebook_reel": "1937898560505111",
+      "instagram_reel": "17994760272120123"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-03T10:13:47.661Z",
+    "assetDeleted": true
   },
   {
     "id": "mills_debut_01",
