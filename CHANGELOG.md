@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 (batch 5)
+- Batch 5: 8 study-tip clips with the originality layer, 3 Kharma Medic (3NSkk31vFbU) and 5 Dr. Cellini (la7FzGdz1Sc), both CC BY from the creators' own channels. Queued by add-batch.mjs from 7 Nov 22:00 to 11 Nov 16:30 (free slots, interleaved by source); videos in release clips-v1. Captions: docs/results/captions-batch-5.md, sources: batch5-sources.json (prefixes kharma, cellini).
+- Dropped: kharma_zone_01 (cuts to other people and a door) and kharma_plan_03 (desk and notebook B-roll for about a third of it). Kharma's video is full of B-roll cutaways, so only clips where he stays on camera were kept; kharma_phone_04 was trimmed to end before a bedroom cutaway. kharma_twohours_05 has one 3 s cutaway (kept).
+- Cellini leans and gestures a lot: onepage_03 and spatial_04 lost his face at the crop edge with Haar tracking, so they use FIXX=0.5. Two Cellini clips were first cut mid-sentence (verbal_02 started on the previous sentence's tail, partner_05 on the wrong word); rebuilt from findwords start times. Lesson: findwords prints start AND end of the phrase, use the end for the cut-out.
+- Tooling: reused the python3.12 venv with yt-dlp 2026.10.26 and faster-whisper. Sources deleted, transcripts kept. Clips encoded at 720p by ig-encode.sh.
+
 ## 2026-11-04 (batch 4)
 - Batch 4: 5 Sadhguru clips (2 CC BY videos from his own channel) with the originality layer (take card, end line, tag, progress bar). Queued by add-batch.mjs on 5 Nov 16:30, 5 Nov 22:00, 6 Nov 16:30, 6 Nov 22:00, 7 Nov 16:30; videos in release clips-v1. Captions: docs/results/captions-batch-4.md, sources: batch4-sources.json (prefixes sadhguru and sadhgurub for separate credit lines).
 - build.py: new env FIXX (fixed crop centre 0-1). Haar face detection does not find a turbaned, bearded speaker and the crop drifted to the edge; FIXX=0.47 fixed the stage-camera video. The second video has wide and B-roll cutaways, so those clips use blur mode; one clip (a stock-footage montage) was dropped.

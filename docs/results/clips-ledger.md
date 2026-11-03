@@ -60,3 +60,7 @@ Unused sources: Mike Farrell (om4AqFgRYjg), AI panel Moore/Russell (VBceREwF7SA)
 Batch 4 (2026-11-04, originality layer on):
 | sadhguru_ | cxoQdEhHaT8 (Sadhguru, never get angry) | anger_01, people_02, coworkers_03 | face-big + FIXX=0.47 |
 | sadhgurub_ | 4ZQkYSpmOdU (Sadhguru, hard times) | memory_04, issues_05 | blur (dropped: smallthings, B-roll montage) |
+
+Batch 5 (2026-11-04, originality layer on):
+| kharma_ | 3NSkk31vFbU (Kharma Medic, study 4 hours) | pomodoro_02, phone_04, twohours_05 | face-big (dropped: zone_01, plan_03, B-roll) |
+| cellini_ | la7FzGdz1Sc (Dr. Cellini, memorize in med school) | routine_01, verbal_02, onepage_03, spatial_04, partner_05 | face-big, FIXX=0.5 on onepage_03 and spatial_04 |

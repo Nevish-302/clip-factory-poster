@@ -11,7 +11,7 @@ Mental-health videos (Psych2Go): supportive tone, helpline line, no sensational 
 | # | Group | Videos (id) | Status |
 |---|---|---|---|
 | 4 | Sadhguru (life wisdom) | cxoQdEhHaT8 never get angry; 4ZQkYSpmOdU handle hard times | done 2026-11-04: 5 clips (3 + 2), queued 5-7 Nov. Learned: Haar face detection misses turbans (crop drifted off him), fixed with env FIXX (fixed crop centre) in build.py for the fixed-camera video; video 2 has many wide/B-roll cutaways, so blur mode was used and one clip with a stock-footage montage was dropped. Needed a fresh yt-dlp (system one, 2024.10, failed 'format not available') and faster-whisper, both in a temporary python3.12 venv. Two videos credited separately (prefixes sadhguru, sadhgurub). |
-| 5 | Study tips | 3NSkk31vFbU Kharma Medic; la7FzGdz1Sc Dr. Cellini | pending |
+| 5 | Study tips | 3NSkk31vFbU Kharma Medic; la7FzGdz1Sc Dr. Cellini | done 2026-11-04: 8 clips (3 + 5), queued 7-11 Nov. Learned: Kharma's vlog cuts to B-roll every few seconds, so two of five picks were dropped and one trimmed; check a frame strip (one frame per 3 s) before accepting. Cellini leans out of the Haar crop: FIXX=0.5 fixed it. findwords prints start and end: use the phrase end for the cut-out and the phrase start for the first word. Prefixes kharma, cellini. |
 | 6 | Happiness talks | xnLoToJVQH4 TEDx Gen Kelsang Nyema; cUkZLttONGM INKtalks Aisha Chaudhary | pending |
 | 7 | Psychology | 4hG9wI5-_Lc 8 psychological tricks; C07DdQbnFMs 9 little habits (Psych2Go, blur mode) | pending |
 | 8 | Career | qKBubKO-798 Fisher interview tips; u9BoG1n1948 mayuko salary negotiation | pending |
