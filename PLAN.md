@@ -11,3 +11,10 @@
 ## Open questions
 - Which platform first: YouTube Shorts or Reels? Monetization eligibility differs and reposted content is demoted on both.
 - Whether to add original commentary so the channel counts as transformative.
+
+## Final scheduling pass (requested 2026-11-04, run after the last batch lands)
+Goal: 4-5 posts a day in total across all batches (slots IST 09:00, 13:00, 16:30, 20:00, 22:00), no gaps, enough clips queued to cover it.
+1. `node post-due.mjs --status`, then count unposted entries per IST day; list days with fewer than 4 or more than 5.
+2. Fill the gaps by re-slotting only entries that are not posted and not already scheduled natively on Facebook (facebookScheduled false); never move a posted or FB-scheduled entry. Keep one speaker/source from posting twice in a row.
+3. Check runway: unposted clips divided by 5 = days covered. If under 14 days, queue more batches or add sources.
+4. Confirm post.yml cron still covers 08:30-23:00 IST, FB scheduling `--limit 4` keeps up, and release storage is fine. Write the result in CHANGELOG.md.
