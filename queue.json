@@ -666,12 +666,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1584786552957370"
+      "facebook_reel": "1584786552957370",
+      "instagram_reel": "18126095077929750"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-03T17:56:45.701Z",
+    "assetDeleted": true
   },
   {
     "id": "karp_offshelf_01",
