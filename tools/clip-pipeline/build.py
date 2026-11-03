@@ -1,4 +1,4 @@
-import sys, json, subprocess, re
+import sys, json, subprocess, re, os
 vid, t0, t1, hook, outname, mode = sys.argv[1], float(sys.argv[2]), float(sys.argv[3]), sys.argv[4], sys.argv[5], sys.argv[6]
 MASK = {"bullshit":"bulls**t","shit":"sh*t","fucking":"f*cking"}
 words = [(MASK.get(re.sub(r"\W","",w[0]).lower(), w[0]).strip(), w[1]-t0, w[2]-t0) for s in json.load(open(f"tx/{vid}.json")) for w in s["w"] if t0 <= w[1] < t1 and w[0].strip()]
@@ -12,10 +12,24 @@ PlayResY: 1920
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
 Style: Cap,Helvetica Neue,76,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,7,2,2,90,90,610,1
 Style: Hook,Helvetica Neue,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,7,2,8,90,90,230,1
+Style: Take,Helvetica Neue,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB0000000,1,0,0,0,100,100,0,0,3,16,0,2,90,90,430,1
+Style: Brand,Helvetica Neue,34,&HB0FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,4,0,1,3,0,8,0,0,70,1
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
 """
 ev = [f"Dialogue: 1,{ts(0)},{ts(3.2)},Hook,,0,0,0,,{{\\fscx70\\fscy70\\t(0,150,\\fscx100\\fscy100)}}{hook}"]
+# --- originality layer (env TAKE = our own one-line commentary, END = our own closing line, TAG = who/what label) ---
+# overlays only: no extra length, no change to the clip. See docs/skills/05-originality-layer.md.
+D = t1 - t0
+clean = lambda x: re.sub(r"[{}\\\n]", " ", x).strip()
+TAKE, END, TAG = clean(os.environ.get("TAKE", "")), clean(os.environ.get("END", "")), clean(os.environ.get("TAG", ""))
+if os.environ.get("ORIG", "1") == "1" and D > 12:
+    ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Brand,,0,0,0,,{{\\pos(540,70)\\an8}}{TAG + '  |  ' if TAG else ''}NOT A CLIP FACTORY")
+    ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Brand,,0,0,0,,{{\\an7\\pos(0,0)\\p1\\1c&H5EE4FF&\\bord0\\fscx0\\t(0,{int(D*1000)},\\fscx100)}}m 0 0 l 1080 0 1080 10 0 10{{\\p0}}")
+    if TAKE:
+        a = max(4.0, D * 0.42); ev.append(f"Dialogue: 2,{ts(a)},{ts(a + 4.5)},Take,,0,0,0,,{{\\fad(200,200)}}{TAKE}")
+    if END:
+        ev.append(f"Dialogue: 2,{ts(D - 2.6)},{ts(D)},Take,,0,0,0,,{{\\fad(200,0)}}{END}")
 pages = [words[i:i+3] for i in range(0, len(words), 3)]
 for p in pages:
     for k, (w, s, e) in enumerate(p):

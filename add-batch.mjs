@@ -1,5 +1,5 @@
 // Append a batch of finished clips to queue.json from a captions file, on the daily slots after the last queued entry.
-// usage: node add-batch.mjs --captions docs/results/captions-batch-3.md --sources batch3-sources.json [--slots 09:00,13:00,20:00] [--dry]
+// usage: node add-batch.mjs --captions docs/results/captions-batch-3.md --sources batch3-sources.json [--slots 09:00,13:00,16:30,20:00,22:00] [--from YYYY-MM-DD] [--dry]
 // captions file: sections "## clipname (NNs)" with lines "Hook:", "Caption:", "Hashtags:". sources json: {"prefix": {"title": "...", "url": "..."}} keyed by the part of the clip name before the first "_".
 // Clips from the same source are interleaved so one speaker never posts twice in a row. Slots are IST (+05:30).
 import fs from "node:fs";
@@ -9,7 +9,7 @@ import { fileURLToPath } from "node:url";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const arg = (n, d) => { const i = process.argv.indexOf(n); return i < 0 ? d : process.argv[i + 1]; };
 const dry = process.argv.includes("--dry");
-const slots = arg("--slots", "09:00,13:00,20:00").split(",");
+const slots = arg("--slots", "09:00,13:00,16:30,20:00,22:00").split(",");
 const sources = JSON.parse(fs.readFileSync(path.join(here, arg("--sources")), "utf8"));
 const md = fs.readFileSync(path.join(here, arg("--captions")), "utf8");
 const qPath = path.join(here, "queue.json");
@@ -35,16 +35,14 @@ while (Object.values(groups).some((g) => g.length)) {
   order.push(groups[pick].shift()); last = pick;
 }
 
-// next slots strictly after the last queued entry
-const lastAt = Math.max(...queue.map((e) => new Date(e.scheduledFor).getTime()));
-const slotTime = (ymd, s) => new Date(`${ymd}T${s}:00+05:30`);
+// fill the first FREE slots from tomorrow (IST) onward: a batch can use the gaps between already queued entries (5 slots a day)
+const taken = new Set(queue.map((e) => e.scheduledFor.slice(0, 16)));
 const ist = (ms) => new Date(ms + 5.5 * 3600_000).toISOString().slice(0, 10);
-let day = ist(lastAt), si = 0;
+let day = arg("--from", ist(Date.now() + 24 * 3600_000));
 const next = () => {
   for (;;) {
-    const t = slotTime(day, slots[si]);
-    si++; if (si === slots.length) { si = 0; day = ist(new Date(`${day}T12:00:00+05:30`).getTime() + 24 * 3600_000); }
-    if (t.getTime() > lastAt) return `${ist(t.getTime())}T${slots[(si + slots.length - 1) % slots.length]}:00+05:30`;
+    for (const s of slots) { const k = `${day}T${s}`; if (!taken.has(k)) { taken.add(k); return `${k}:00+05:30`; } }
+    day = ist(new Date(`${day}T12:00:00+05:30`).getTime() + 24 * 3600_000);
   }
 };
 for (const c of order) {
