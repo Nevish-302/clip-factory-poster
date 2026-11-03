@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-04 (batch 4)
+- Batch 4: 5 Sadhguru clips (2 CC BY videos from his own channel) with the originality layer (take card, end line, tag, progress bar). Queued by add-batch.mjs on 5 Nov 16:30, 5 Nov 22:00, 6 Nov 16:30, 6 Nov 22:00, 7 Nov 16:30; videos in release clips-v1. Captions: docs/results/captions-batch-4.md, sources: batch4-sources.json (prefixes sadhguru and sadhgurub for separate credit lines).
+- build.py: new env FIXX (fixed crop centre 0-1). Haar face detection does not find a turbaned, bearded speaker and the crop drifted to the edge; FIXX=0.47 fixed the stage-camera video. The second video has wide and B-roll cutaways, so those clips use blur mode; one clip (a stock-footage montage) was dropped.
+- Tooling: the system yt-dlp (2024.10.22) returned 'format not available'; downloaded with yt-dlp 2026.10.26 and transcribed with faster-whisper from a temporary python3.12 venv (system python3.8 has neither). Sources deleted, transcripts kept.
+
 ## 2026-10-20
 - Created clip-factory: download, transcribe, cut, caption, 9:16 pipeline built in one session.
 - Batch 1: 13 clips from 5 CC BY sources (Musk and Deepika Padukone talks from World Economic Forum, Still Here Hollywood podcast, AI explainer, ChatGPT tutorial). See `results/captions-batch-1.md`.

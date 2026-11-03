@@ -66,6 +66,7 @@ if mode.startswith("face"):   # face-tracked true 9:16 crop; face-left / face-ri
             else:
                 fx = sorted(f[0] for f in fx); last = min(fx) if side == "left" else max(fx) if side == "right" else fx[len(fx) // 2]
         xs.append(last)
+    if os.environ.get("FIXX"): xs = [float(os.environ["FIXX"])] * len(xs)   # fixed crop centre (0-1) when Haar misses a turban/beard
     # AutoFlip-style: detect the original shot cuts, then per shot hold a STATIONARY crop at the median face x;
     # only fit a gentle straight-line pan if the subject truly drifts out of the crop window inside one shot.
     scn = subprocess.run(["ffmpeg","-hide_banner","-ss",str(t0),"-to",str(t1),"-i",f"src/{vid}.mp4","-an","-vf","scale=480:-1,select='gt(scene,0.28)',showinfo","-f","null","-"], capture_output=True, text=True).stderr

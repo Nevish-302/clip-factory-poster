@@ -1075,5 +1075,70 @@
     },
     "errors": {},
     "facebookScheduled": true
+  },
+  {
+    "id": "sadhguru_anger_01",
+    "file": "sadhguru_anger_01.mp4",
+    "caption": "Sadhguru says that if someone else decides what happens inside you, that is the ultimate slavery. How you feel should be your own choice.\n\nSource: Sadhguru on How To Never Get Angry or Bothered By People (CC BY) https://www.youtube.com/watch?v=cxoQdEhHaT8\n\n#Sadhguru #Anger #Mindset #SelfControl #LifeAdvice #Reels",
+    "scheduledFor": "2026-11-05T16:30:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "sadhgurub_memory_04",
+    "file": "sadhgurub_memory_04.mp4",
+    "caption": "Sadhguru points out that we suffer what happened ten years ago and what might happen the day after tomorrow, which is memory and imagination, not the present moment.\n\nSource: How Do We Handle Hard Times in Life? Sadhguru Jaggi Vasudev Answers (CC BY) https://www.youtube.com/watch?v=4ZQkYSpmOdU\n\n#Sadhguru #Mindset #Overthinking #LifeAdvice #Perspective #Reels",
+    "scheduledFor": "2026-11-05T22:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "sadhguru_people_02",
+    "file": "sadhguru_people_02.mp4",
+    "caption": "Sadhguru's view: people are not simply good or bad, most of us act according to the atmosphere around us. Create a pleasant one and people behave better.\n\nSource: Sadhguru on How To Never Get Angry or Bothered By People (CC BY) https://www.youtube.com/watch?v=cxoQdEhHaT8\n\n#Sadhguru #Mindset #People #LifeAdvice #Perspective #Reels",
+    "scheduledFor": "2026-11-06T16:30:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "sadhgurub_issues_05",
+    "file": "sadhgurub_issues_05.mp4",
+    "caption": "Sadhguru says the more issues come up in your life, the more active a life you are living, so learn to handle your own thoughts and emotions rather than expect no problems.\n\nSource: How Do We Handle Hard Times in Life? Sadhguru Jaggi Vasudev Answers (CC BY) https://www.youtube.com/watch?v=4ZQkYSpmOdU\n\n#Sadhguru #Problems #Mindset #LifeAdvice #Growth #Reels",
+    "scheduledFor": "2026-11-06T22:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "sadhguru_coworkers_03",
+    "file": "sadhguru_coworkers_03.mp4",
+    "caption": "Can't work with a difficult person? Sadhguru says ideal people don't exist, and if what you are doing matters to you, you learn to work with the people you have.\n\nSource: Sadhguru on How To Never Get Angry or Bothered By People (CC BY) https://www.youtube.com/watch?v=cxoQdEhHaT8\n\n#Sadhguru #Work #Teamwork #Coworkers #CareerAdvice #Reels",
+    "scheduledFor": "2026-11-07T16:30:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
   }
 ]

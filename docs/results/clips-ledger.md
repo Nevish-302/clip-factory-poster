@@ -56,3 +56,7 @@ Unused material: more Musk (about 15 min), Jack Ma US-China/Trump talk (politica
 
 Posting status of batches 1 and 2: see the poster repo's queue.json (Instagram: 2 of 30 posted, Facebook: 26 of 30 scheduled on 2026-10-23).
 Unused sources: Mike Farrell (om4AqFgRYjg), AI panel Moore/Russell (VBceREwF7SA), Davos AI & Humanity (VoRbPxyo2uU), Bourla, Dimon, Griffin, Michael Learned, Morgan Fairchild, Larry Wilcox, Amy Yasbeck, Michael Nouri, Julia Duffy, Joyce Bulifant.
+
+Batch 4 (2026-11-04, originality layer on):
+| sadhguru_ | cxoQdEhHaT8 (Sadhguru, never get angry) | anger_01, people_02, coworkers_03 | face-big + FIXX=0.47 |
+| sadhgurub_ | 4ZQkYSpmOdU (Sadhguru, hard times) | memory_04, issues_05 | blur (dropped: smallthings, B-roll montage) |
