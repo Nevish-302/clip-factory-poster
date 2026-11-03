@@ -21,3 +21,18 @@ Mental-health videos (Psych2Go): supportive tone, helpline line, no sensational 
 | 12 | English / IELTS | ELxGmf9f_ZM IELTS Advantage speaking secrets; one more from that channel | pending |
 
 Per batch: dl (license check) -> tx -> pick 3-5 moments per video with the filter -> build with TAKE/END/TAG -> verify frames -> ig-encode -> upload to release clips-v1 -> captions-batch-N.md + sources json -> add-batch.mjs -> commit and push -> delete sources -> update this table, CHANGELOG, ledger.
+
+## Added 2026-11-04: anime and pop culture (best 5 of each)
+Risk note: these are video essays over studio footage. The CC BY flag only covers the creator's own commentary, not the anime/film/game clips, so Meta can mute or remove reels. Mitigation per clip: choose moments where the narrator's idea carries it, use blur mode, keep clips short, check how much studio footage is on screen, and watch the first posted ones for mutes or claims before doing more. If two of the first batch get muted or removed, stop this track. No profanity titles, no music/AMV/fan-animation sources, no dubbed full-episode recaps.
+
+Picked because they are story or life-lesson framed (matches what worked) and have 300K+ views. Order is a suggestion; move a batch earlier if you want the anime test sooner.
+
+| # | Group | Videos (id) | Status |
+|---|---|---|---|
+| 13 | Anime (Sage's Rain) | 8_FenWC9Bc4 Philosophy of Madara Uchiha (2.2M); zhxtBW0HIbc Itachi, a sacrifice for love (1M, 6 min) | pending |
+| 14 | Anime (Sage's Rain) | 4D6as7R0OGM Morality of Itachi (640K); wNB05gdWRkI How Naruto failed its female characters (984K) | pending |
+| 15 | Anime + Star Wars (Beghast) | HrTKzAlZ3Q4 How one anime fixed isekai's main issue (1.3M); hL4IfoQzSSE De-infantilizing Star Wars (4.3M) | pending |
+| 16 | Pop culture | UZoh4wv9Txs Master Eli, ranking the Jedi Council (1.1M); vU0MYIoZ0Xc Excess Cinema, Tamil mass movie vs Bollywood drama (459K, relevant to an Indian audience) | pending |
+| 17 | Pop culture | ZM_EszgRD64 Jack's Movie Reviews, Baby Driver: a lesson in storytelling (369K); one new Still Here Hollywood Podcast episode (owner-licensed interviews; search the channel for the best story episode, NOT the Erik Estrada one: its source had burned-in captions) | pending, second id to find |
+
+Not picked: GrandLineReview (One Piece, mostly rankings/lists), KakashiHatake0800 (long lore), NoahBoahCoah (profanity), Bunaye (animation praise, heavy footage), game lore (Choo-Choo Charles, TLOU2, Outlast), The Prism, David Lynch interview (uploader is not the owner), Pokemon, Marvel.
