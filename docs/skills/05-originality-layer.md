@@ -10,7 +10,7 @@ What `tools/clip-pipeline/build.py` adds (overlays only, same length, no extra e
 5. Existing: on-screen hook, word-by-word captions, credit line in the caption.
 Turn off with `ORIG=0`. Skipped automatically under 12 s.
 
-Placement: tag y=70, hook y=230, captions about y=1310, take/end card about y=1490, bottom 320 px left clear.
+Placement: tag y=70, hook y=135 (clear of the head; was 230 until batch 6), captions about y=1310, take/end card about y=1490, bottom 320 px left clear.
 
 Usage: `TAKE="..." END="..." TAG="SADHGURU" python3 -I build.py ID START END "HOOK" outname MODE`
 

@@ -64,3 +64,7 @@ Batch 4 (2026-11-04, originality layer on):
 Batch 5 (2026-11-04, originality layer on):
 | kharma_ | 3NSkk31vFbU (Kharma Medic, study 4 hours) | pomodoro_02, phone_04, twohours_05 | face-big (dropped: zone_01, plan_03, B-roll) |
 | cellini_ | la7FzGdz1Sc (Dr. Cellini, memorize in med school) | routine_01, verbal_02, onepage_03, spatial_04, partner_05 | face-big, FIXX=0.5 on onepage_03 and spatial_04 |
+
+Batch 6 (2026-11-04, originality layer on):
+| nyema_ | xnLoToJVQH4 (TEDxGreenville 2014, Gen Kelsang Nyema) | blame_01, balloon_02, goodday_03, response_04 | face-big |
+| aisha_ | cUkZLttONGM (INKtalks, Aisha Chaudhary: Finding happiness) | choice_01, memories_02, art_03, dogs_04 | blur (face-big cut off close-ups) |

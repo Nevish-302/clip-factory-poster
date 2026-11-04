@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-04 (batch 6)
+- Batch 6: 8 happiness-talk clips with the originality layer, 4 Gen Kelsang Nyema (xnLoToJVQH4, TEDxGreenville 2014) and 4 Aisha Chaudhary (cUkZLttONGM, INKtalks), both CC BY. Queued by add-batch.mjs from 11 Nov 22:00 to 13 Nov 16:30 (free slots, interleaved by source); videos in release clips-v1. Captions: docs/results/captions-batch-6.md, sources: batch6-sources.json (prefixes nyema, aisha).
+- Care with content: only practical mind/attitude points were used. No meditation, teacher quotes, religious content or centre promotion from the nun's talk; from Aisha's talk, no illness or medical detail, no hospital-test anecdotes and nothing that exploits her situation (hospital only mentioned in passing in the memory clip). Dropped on purpose: the sleep-study story and the 'others are less fortunate' passage.
+- Aisha's talk intercuts extreme close-ups, which face-big cropped at the edge, so all four use blur mode (16:9 over blur). Nyema uses face-big (Haar tracked her fine, no FIXX needed).
+- build.py: hook style moved from y=230 to y=135 (docs/skills/05 updated) so a hook no longer touches the head; hooks wrap at about 22 characters at 70 pt, so each hook was cut to one line.
+- Tooling: reused the python3.12 venv (yt-dlp 2026.10.26 + faster-whisper). The machine was under heavy load from parallel agents (load 250+), so builds, encodes and uploads took hours; run few jobs at once. Sources deleted, transcripts kept. Clips encoded at 720p (540p not needed) by ig-encode.sh.
+
 ## 2026-11-04 (batch 5)
 - Batch 5: 8 study-tip clips with the originality layer, 3 Kharma Medic (3NSkk31vFbU) and 5 Dr. Cellini (la7FzGdz1Sc), both CC BY from the creators' own channels. Queued by add-batch.mjs from 7 Nov 22:00 to 11 Nov 16:30 (free slots, interleaved by source); videos in release clips-v1. Captions: docs/results/captions-batch-5.md, sources: batch5-sources.json (prefixes kharma, cellini).
 - Dropped: kharma_zone_01 (cuts to other people and a door) and kharma_plan_03 (desk and notebook B-roll for about a third of it). Kharma's video is full of B-roll cutaways, so only clips where he stays on camera were kept; kharma_phone_04 was trimmed to end before a bedroom cutaway. kharma_twohours_05 has one 3 s cutaway (kept).
