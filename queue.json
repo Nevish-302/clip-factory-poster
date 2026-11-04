@@ -1351,8 +1351,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "959905533865965"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nyema_goodday_03",
@@ -1364,8 +1367,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1158631083216818"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "aisha_art_03",
@@ -1377,8 +1383,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1111438841864096"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nyema_response_04",
@@ -1390,8 +1399,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1915715423169667"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "aisha_dogs_04",
