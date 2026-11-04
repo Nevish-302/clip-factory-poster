@@ -87,3 +87,5 @@ Batch 7 (2026-11-04, originality layer on):
 | isekai_ | HrTKzAlZ3Q4 (Beghast, How One Anime Fixed Isekai's Main Issue) | owed_01, lesson_02 | blur (all studio footage) |
 | frieren_ | HrTKzAlZ3Q4 (same video) | time_03, brave_04, carry_05 | blur |
 | starwars_ | hL4IfoQzSSE (Beghast, De-Infantilizing Star Wars) | hand_01, show_02, people_03, real_04 | blur (Star Wars/Andor footage, creator's own title cards) |
+| itachib_ | 4D6as7R0OGM (Sage's Rain, The Morality of Itachi Uchiha) | love_01, intent_02, loyal_03, forget_04 | blur (studio footage, some manga panels) |
+| naruto_ | wNB05gdWRkI (Sage's Rain, How Naruto Failed Its Female Characters) | shy_01, love_02, sakura_03, critic_04 | blur (burned-in anime subtitles and CN corner icon in some frames) |
