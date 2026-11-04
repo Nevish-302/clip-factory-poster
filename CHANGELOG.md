@@ -124,3 +124,9 @@
 - Searched 39 topics for CC BY videos over 300K views (Sadhguru, Psych2Go, study tips, TEDx, career, public speaking, startups, minimalism, IELTS lead). Roster of 9 groups, 2 videos each, in docs/BATCHES.md; processed two videos per batch, one batch at a time, in the background.
 - Originality layer added to tools/clip-pipeline/build.py (docs/skills/05-originality-layer.md): our own take card, own end line, label + brand tag, progress bar. Overlays only, same length, no evasion tricks. Unproven; judge by views against batches 1-3.
 - Posting goes to 5 a day: slots 09:00, 13:00, 16:30, 20:00, 22:00 IST. add-batch.mjs now fills the first free slots from tomorrow instead of appending after the last entry; post.yml comments updated (the cron already covers 08:30-23:00).
+
+## 2026-11-05 (final scheduling pass)
+- Roster batches 4-17 done. Queue: 174 entries, 38 posted, 136 unposted, 5 per IST day from 5 Nov to 1 Dec plus 1 on 2 Dec 09:00 (about 27 days of runway; target was at least 14).
+- Only fix needed: madara_failure_05 posted right after madara_force_04 (25 Nov), swapped slots with starwars_hand_01 so no source posts twice in a row. No posted or FB-scheduled entry was moved.
+- huang_code_03 and jackma_beach_04 show `posted: false` but have IG and FB ids in `results` (already live); not re-posted.
+- post.yml cron `*/30 3-17 * * *` still covers 08:30-23:00 IST. Anime/film-essay clips (batches 13-17, from 23 Nov) are the copyright risk: stop that track if two get muted or removed.
