@@ -1086,8 +1086,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2384508428985463"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "sadhgurub_memory_04",
@@ -1099,8 +1102,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1140906925132723"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "sadhguru_people_02",
@@ -1112,8 +1118,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1672786377769510"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "sadhgurub_issues_05",
@@ -1125,8 +1134,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2193907311515124"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "sadhguru_coworkers_03",
