@@ -29,7 +29,7 @@ Picked because they are story or life-lesson framed (matches what worked) and ha
 
 | # | Group | Videos (id) | Status |
 |---|---|---|---|
-| 13 | Anime (Sage's Rain) | 8_FenWC9Bc4 Philosophy of Madara Uchiha (2.2M); zhxtBW0HIbc Itachi, a sacrifice for love (1M, 6 min) | pending |
+| 13 | Anime (Sage's Rain) | 8_FenWC9Bc4 Philosophy of Madara Uchiha (2.2M); zhxtBW0HIbc Itachi, a sacrifice for love (1M, 6 min) | done 2026-11-04: 8 clips (5 + 3), queued 23-25 Nov. Learned: essays are 100% studio footage with some baked-in studio subtitles, blur mode for all; skipped lore and massacre passages so Itachi has 3 clips; verify last word by transcribing the last 4 s of each clip (all fine). Prefixes madara, itachi. Watch first posts for mutes or claims. |
 | 14 | Anime (Sage's Rain) | 4D6as7R0OGM Morality of Itachi (640K); wNB05gdWRkI How Naruto failed its female characters (984K) | pending |
 | 15 | Anime + Star Wars (Beghast) | HrTKzAlZ3Q4 How one anime fixed isekai's main issue (1.3M); hL4IfoQzSSE De-infantilizing Star Wars (4.3M) | pending |
 | 16 | Pop culture | UZoh4wv9Txs Master Eli, ranking the Jedi Council (1.1M); vU0MYIoZ0Xc Excess Cinema, Tamil mass movie vs Bollywood drama (459K, relevant to an Indian audience) | pending |

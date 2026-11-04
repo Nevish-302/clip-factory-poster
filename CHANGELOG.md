@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 (batch 13)
+- Batch 13: 8 anime-essay clips (first anime/pop-culture batch) with the originality layer, blur mode, CC BY owner channel Sage's Rain: 5 from "The Philosophy of Madara Uchiha" (8_FenWC9Bc4, prefix madara) and 3 from "Itachi Uchiha, a sacrifice for love" (zhxtBW0HIbc, prefix itachi), tag SAGE'S RAIN. Queued 23-25 Nov by add-batch.mjs. Files: ~/Downloads/cc-clips/batch13-ready/, captions in docs/results/captions-batch-13.md.
+- Picked only life-relevant lines (trust and teamwork, owning your choices, everyone thinks they are right, accepting failure, smart is not mature, false either-or pressure, no one purely good or bad). Skipped lore, plot recap and the clan-massacre passages, so Itachi has 3 clips, not 4-5.
+- Copyright risk: every frame is studio anime or manga footage and some frames carry the studio's baked-in subtitles; CC BY covers only the creator. Watch the first posted clips for mutes or claims; per BATCHES.md stop this track if two of the first batch are muted or removed.
+- Checked the last word of each clip by transcribing the final 4 s: all end on a complete word within 0.1 s of the cut. Used the batch 12 venv (~/cc-venv12-b12/v).
+
 ## 2026-11-04 (batch 12)
 - Batch 12: 7 English/IELTS speaking clips with the originality layer, blur mode, from IELTS Advantage (owner channel, CC BY confirmed by dl.py): 3 from "IELTS Speaking Secrets Every Student Should Learn" (ELxGmf9f_ZM, prefix ielts) and 4 from "How To Speak Like The 1% Elite" (JvX6_hraSMM, prefix ieltsb). Queued by add-batch.mjs into the first free slots. Captions: docs/results/captions-batch-12.md, sources: batch12-sources.json. Files: ~/Downloads/cc-clips/batch12-ready/ (720p).
 - Picked talk-to-camera videos because the channel's other hits are examiner/student mock tests. ELxGmf9f_ZM uses movie re-enactments with burned-in subtitles and TRAP 1-3 corner icons: the chef-story clip was built, seen with the film's subtitles competing with ours, and dropped; ielts_words_04 shows a short screen capture with a subtitle and is the weakest kept clip. Tips only, no score promises in hooks (the band-zero line is the speaker's claim).

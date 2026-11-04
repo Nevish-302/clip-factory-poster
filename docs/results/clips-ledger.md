@@ -82,3 +82,5 @@ Batch 7 (2026-11-04, originality layer on):
 | robinb_ | FqTkiLxIE9Y (Robin Greenfield, 44 possessions) | networth_01, pot_02, computer_03, story_04, slow_05 | face-big |
 | ielts_ | ELxGmf9f_ZM (IELTS Advantage, IELTS Speaking Secrets) | worst_01, hardq_02, words_04 | blur (source has corner TRAP icons; dropped chef_03: burned-in movie subtitles) |
 | ieltsb_ | JvX6_hraSMM (IELTS Advantage, How To Speak Like The 1% Elite) | testmode_01, offtopic_02, coffee_03, memorize_04 | blur |
+| madara_ | 8_FenWC9Bc4 (Sage's Rain, Philosophy of Madara Uchiha) | behind_01, choice_02, right_03, force_04, failure_05 | blur (all studio footage; baked-in anime subtitles in some frames) |
+| itachi_ | zhxtBW0HIbc (Sage's Rain, Itachi, a sacrifice for love) | mature_01, options_02, gray_03 | blur (clan-massacre passages skipped) |
