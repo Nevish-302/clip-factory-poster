@@ -91,3 +91,5 @@ Batch 7 (2026-11-04, originality layer on):
 | naruto_ | wNB05gdWRkI (Sage's Rain, How Naruto Failed Its Female Characters) | shy_01, love_02, sakura_03, critic_04 | blur (burned-in anime subtitles and CN corner icon in some frames) |
 | jedi_ | UZoh4wv9Txs (Master Eli, Ranking the Jedi Council) | serious_01, rules_02, names_03, worldview_04 | blur (all studio footage; sponsor read skipped) |
 | tamil_ | vU0MYIoZ0Xc (Excess Cinema, Tamil mass movie vs Bollywood drama) | barely_01, road_02, dignity_03, fail_04 | blur (all film footage; Odoo sponsor skipped) |
+| driver_ | ZM_EszgRD64 (Jack's Movie Reviews, Baby Driver: A Lesson in Storytelling) | fundamentals_01, onepage_02, consistent_03, show_04 | blur (all film footage) |
+| donna_ | ziE5g-BOWGs (Still Here Hollywood Podcast, Donna Mills) | contract_01, star_02, producer_03, mom_04, redo_05 | blur (wide two-shot and close-ups) |
