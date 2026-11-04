@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 (batch 7)
+- Batch 7: 9 everyday-psychology and habit clips with the originality layer, 5 from Psych2Go "8 Psychological Tricks That Actually Work" (4hG9wI5-_Lc, prefix psych) and 4 from "9 Little Habits To Have A Better Day" (C07DdQbnFMs, prefix psychb), both CC BY from the creator's own channel. Queued by add-batch.mjs from 13 Nov 20:00 to 15 Nov 13:00 (free slots, interleaved by source); videos in release clips-v1. Captions: docs/results/captions-batch-7.md, sources: batch7-sources.json.
+- Checked first: both videos are narrated animations with no burned-in subtitles or channel logos (only the creator's own title cards inside the picture), so neither was replaced. Blur mode for all clips. The TTS-style narration transcribed cleanly.
+- Content care: practical do-this lines only. Skipped the manipulation-flavoured tricks (favor when someone is exhausted, handing objects mid-conversation), the abstract cognitive-dissonance segment, and anything clinical. Wording stays supportive, no shaming.
+- Tooling: reused the python3.12 venv. The machine was under very heavy load from parallel agents (load up to 170), so builds took 5-20 min each and `upload-clips.sh` hung on single files; a manual `gh release upload` for the missing clip fixed it. Sources deleted, transcripts kept. Clips encoded at 720p by ig-encode.sh.
+
 ## 2026-11-04 (batch 6)
 - Batch 6: 8 happiness-talk clips with the originality layer, 4 Gen Kelsang Nyema (xnLoToJVQH4, TEDxGreenville 2014) and 4 Aisha Chaudhary (cUkZLttONGM, INKtalks), both CC BY. Queued by add-batch.mjs from 11 Nov 22:00 to 13 Nov 16:30 (free slots, interleaved by source); videos in release clips-v1. Captions: docs/results/captions-batch-6.md, sources: batch6-sources.json (prefixes nyema, aisha).
 - Care with content: only practical mind/attitude points were used. No meditation, teacher quotes, religious content or centre promotion from the nun's talk; from Aisha's talk, no illness or medical detail, no hospital-test anecdotes and nothing that exploits her situation (hospital only mentioned in passing in the memory clip). Dropped on purpose: the sleep-study story and the 'others are less fortunate' passage.

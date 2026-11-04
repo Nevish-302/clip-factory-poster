@@ -68,3 +68,7 @@ Batch 5 (2026-11-04, originality layer on):
 Batch 6 (2026-11-04, originality layer on):
 | nyema_ | xnLoToJVQH4 (TEDxGreenville 2014, Gen Kelsang Nyema) | blame_01, balloon_02, goodday_03, response_04 | face-big |
 | aisha_ | cUkZLttONGM (INKtalks, Aisha Chaudhary: Finding happiness) | choice_01, memories_02, art_03, dogs_04 | blur (face-big cut off close-ups) |
+
+Batch 7 (2026-11-04, originality layer on):
+| psych_ | 4hG9wI5-_Lc (Psych2Go, 8 psychological tricks) | name_01, askbig_02, mirror_03, nod_04, gum_05 | blur (dropped on purpose: exhausted-favor, hand-over, dream-self) |
+| psychb_ | C07DdQbnFMs (Psych2Go, 9 little habits) | onething_01, prep_02, relax_03, hype_04 | blur |

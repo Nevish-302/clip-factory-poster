@@ -1,7 +1,7 @@
 # Plan
 
 ## Next
-0. Batch 7 (Psych2Go: 4hG9wI5-_Lc, C07DdQbnFMs) per docs/BATCHES.md: narrated animations with no face, so use blur mode; supportive tone, helpline line in mental-health captions, no sensational hooks. Batch 6 is queued (see CHANGELOG). Reuse the python3.12 venv (yt-dlp 2026.10.26 + faster-whisper) or recreate it. Keep hooks to one line (about 22 characters) and run at most 3-4 builds at once.
+0. Batch 8 (career): qKBubKO-798 Fisher College interview tips, u9BoG1n1948 mayuko salary negotiation, per docs/BATCHES.md. Batches 6 and 7 are queued (see CHANGELOG). Reuse the python3.12 venv (yt-dlp 2026.10.26 + faster-whisper) or recreate it. Run at most 3-4 builds at once; upload-clips.sh can hang on one file when the machine is loaded: start a manual `gh release upload` for the missing clip.
 1. Posting runs on GitHub Actions (see HANDOFF.md). Open items: (a) the user adds `instagram_manage_insights` to the Meta app and regenerates the token, so reach and views can be read (stats are limited to likes and comments without it); (b) regenerate the token that was pasted in chat twice, then update Keychain and the repo secret; (c) check the first posts are public; (d) YouTube Shorts is blocked by Google's API audit rule: decide between applying for the audit and scheduling in YouTube Studio.
 2. Volume: batches 1, 2 and 3 (60 clips) are queued at 3 a day through 12 Nov. Make batch 4 before then (candidates in docs/results/clips-ledger.md under "Unused sources"), then use `add-batch.mjs` and `upload-clips.sh`. Delete `~/Downloads/cc-clips/batch3-ready/` once batch 3 has posted.
 3. Redo the 4 Hollywood podcast clips with crop v2 (re-download fiyZ09uVfNE, 250 MB). Not urgent.
