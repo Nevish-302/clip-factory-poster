@@ -89,3 +89,5 @@ Batch 7 (2026-11-04, originality layer on):
 | starwars_ | hL4IfoQzSSE (Beghast, De-Infantilizing Star Wars) | hand_01, show_02, people_03, real_04 | blur (Star Wars/Andor footage, creator's own title cards) |
 | itachib_ | 4D6as7R0OGM (Sage's Rain, The Morality of Itachi Uchiha) | love_01, intent_02, loyal_03, forget_04 | blur (studio footage, some manga panels) |
 | naruto_ | wNB05gdWRkI (Sage's Rain, How Naruto Failed Its Female Characters) | shy_01, love_02, sakura_03, critic_04 | blur (burned-in anime subtitles and CN corner icon in some frames) |
+| jedi_ | UZoh4wv9Txs (Master Eli, Ranking the Jedi Council) | serious_01, rules_02, names_03, worldview_04 | blur (all studio footage; sponsor read skipped) |
+| tamil_ | vU0MYIoZ0Xc (Excess Cinema, Tamil mass movie vs Bollywood drama) | barely_01, road_02, dignity_03, fail_04 | blur (all film footage; Odoo sponsor skipped) |
