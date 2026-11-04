@@ -685,12 +685,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1473898754553688"
+      "facebook_reel": "1473898754553688",
+      "instagram_reel": "18083517173370554"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-04T05:05:13.287Z",
+    "assetDeleted": true
   },
   {
     "id": "ma15_english_02",
@@ -1150,8 +1153,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "3141470389388676"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "cellini_routine_01",
@@ -1163,8 +1169,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1116346331007348"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "kharma_pomodoro_02",
@@ -1176,8 +1185,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1431084621958577"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "cellini_verbal_02",
@@ -1189,8 +1201,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2299516647292283"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "kharma_phone_04",
