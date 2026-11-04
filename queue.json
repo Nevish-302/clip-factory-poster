@@ -704,12 +704,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1112666131350682"
+      "facebook_reel": "1112666131350682",
+      "instagram_reel": "18112320422238428"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-04T10:02:34.273Z",
+    "assetDeleted": true
   },
   {
     "id": "ma18_age_02",
@@ -1217,8 +1220,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "29431474679811471"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "cellini_onepage_03",
@@ -1230,8 +1236,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1659277335942538"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "kharma_twohours_05",
@@ -1243,8 +1252,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1830322928163795"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "cellini_spatial_04",
@@ -1256,8 +1268,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1113751608369109"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "cellini_partner_05",
