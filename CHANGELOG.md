@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-04 (batch 10)
+- Batch 10: 10 startup and leadership clips with the originality layer, face-big, CC BY owner channels: 5 from Y Combinator "Lecture 1 - How to Start a Startup" (CBYhVcO4WgI, prefix yc, tag SAM ALTMAN) and 5 from the Marines channel "Leadership Lessons from Gen. James Mattis (Ret.)" (3EYU3VTI3IU, prefix mattis). Queued 18-20 Nov (5 slots a day, free slots). Files: ~/Downloads/cc-clips/batch10-ready/.
+- The YC lecture alternates slides and stage: a luma scan (slide frames are white) found the runs where Sam is on camera, and every clip lies inside one; a Stanford logo sits in the corner of the source but face-big crops it out. Dustin's half, slide-only passages and the abstract framework parts were skipped. Mattis is a clean studio talking head, no cutaways; Fallujah and combat answers were skipped (no politics or war).
+- Whisper misheard the Pinterest founder story ("Ben Silverman", "tidying up strangers", "settle the browsers"); fixed in tx/CBYhVcO4WgI.json before building (Silbermann, signing, set all the). Check names and verbs in a transcript before burning captions. Sam walks to the left edge in the market clip (face stays in frame).
+
 ## 2026-11-04 (batch 8)
 - Batch 8: 9 interview-tip clips with the originality layer from Fisher College of Business (owner channel, CC BY): 5 from "How to Answer Behavior Based Interview Questions" (qKBubKO-798, prefix fisher) and 4 from "Why Should We Hire You?" (5NVYg2HNAdA, prefix fisherb). Queued 16-18 Nov. Files: ~/Downloads/cc-clips/batch8-ready/.
 - Dropped the planned mayuko salary video (u9BoG1n1948): after her first minute the whole video is a split-screen video call in a beige frame with two small faces and text labels, so no clean 9:16 crop; it was downloaded and deleted, not transcribed. Replaced by a second Fisher video found with find.sh (same format, talking heads, no burned-in captions).

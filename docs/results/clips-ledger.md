@@ -76,3 +76,5 @@ Batch 7 (2026-11-04, originality layer on):
 | idea_ | V8eLdbKXGzk (Project IDEA, Good vs Bad Presentation) | eyecontact_01, story_02, stress_03 | blur (staged skit, no burned-in text) |
 | fisher_ | qKBubKO-798 (Fisher College, behavior-based interview questions) | results_01, iwe_02, stories_03, redpen_04, effort_05 | face-mid (dropped: mayuko u9BoG1n1948, split-screen call) |
 | fisherb_ | 5NVYg2HNAdA (Fisher College, why should we hire you) | reasons_01, book_02, research_03, anything_04 | face-mid |
+| yc_ | CBYhVcO4WgI (Y Combinator, Lecture 1 How to Start a Startup, Sam Altman) | terrible_01, market_02, pager_03, pinterest_04, bad_05 | face-big (on-camera runs only, slides skipped) |
+| mattis_ | 3EYU3VTI3IU (Marines, Leadership Lessons from Gen. Mattis) | improve_01, reading_02, trust_03, reason_04, excuse_05 | face-big |
