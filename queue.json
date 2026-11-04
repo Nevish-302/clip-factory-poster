@@ -723,12 +723,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1749499382807011"
+      "facebook_reel": "1749499382807011",
+      "instagram_reel": "18118824989088093"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-04T18:07:29.236Z",
+    "assetDeleted": true
   },
   {
     "id": "harari_irrelevant_02",
@@ -1284,8 +1287,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1710296927463187"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nyema_blame_01",
@@ -1297,8 +1303,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2580341392484606"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "aisha_choice_01",
@@ -1310,8 +1319,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1159334533329184"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "nyema_balloon_02",
@@ -1323,8 +1335,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1111473271855203"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "aisha_memories_02",
