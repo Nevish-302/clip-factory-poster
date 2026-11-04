@@ -74,3 +74,5 @@ Batch 7 (2026-11-04, originality layer on):
 | psychb_ | C07DdQbnFMs (Psych2Go, 9 little habits) | onething_01, prep_02, relax_03, hype_04 | blur |
 | conor_ | c8_BIamLESg (Conor Neill, Improve Your Speaking) | webcam_01, speaking_02, pottery_03, practice_04 | blur (face-big lost him) |
 | idea_ | V8eLdbKXGzk (Project IDEA, Good vs Bad Presentation) | eyecontact_01, story_02, stress_03 | blur (staged skit, no burned-in text) |
+| fisher_ | qKBubKO-798 (Fisher College, behavior-based interview questions) | results_01, iwe_02, stories_03, redpen_04, effort_05 | face-mid (dropped: mayuko u9BoG1n1948, split-screen call) |
+| fisherb_ | 5NVYg2HNAdA (Fisher College, why should we hire you) | reasons_01, book_02, research_03, anything_04 | face-mid |

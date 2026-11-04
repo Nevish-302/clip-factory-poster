@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-04 (batch 8)
+- Batch 8: 9 interview-tip clips with the originality layer from Fisher College of Business (owner channel, CC BY): 5 from "How to Answer Behavior Based Interview Questions" (qKBubKO-798, prefix fisher) and 4 from "Why Should We Hire You?" (5NVYg2HNAdA, prefix fisherb). Queued 16-18 Nov. Files: ~/Downloads/cc-clips/batch8-ready/.
+- Dropped the planned mayuko salary video (u9BoG1n1948): after her first minute the whole video is a split-screen video call in a beige frame with two small faces and text labels, so no clean 9:16 crop; it was downloaded and deleted, not transcribed. Replaced by a second Fisher video found with find.sh (same format, talking heads, no burned-in captions).
+- Face crop is tight (interview close-ups), face-mid and face-big came out the same. fisherb_reasons_01 shows a sliver of the source name card at the left edge for the first seconds. The closing "what student did well" slides were not used. No guarantees of outcomes in hooks or captions (tips only). Run took two sessions after a network outage; machine load stayed 90-100 from the parallel batch 9 agent, so builds took several minutes each.
+
 ## 2026-11-04 (batch 9)
 - Batch 9: 7 public-speaking clips with the originality layer, 4 from Conor Neill "Improve Your Speaking" (c8_BIamLESg, prefix conor) and 3 from Project IDEA "Good Presentation VS Bad Presentation" (V8eLdbKXGzk, prefix idea), both CC BY owner channels. Queued by add-batch.mjs 15-16 Nov (5 slots a day, free slots; batch 8 fills other gaps).
 - Checked first: Project IDEA is a staged classroom skit with slides and audience cutaways but no burned-in captions or logos, so it was kept (blur mode, 3 clips from the feedback and stress-talk scenes; the skit's history-lecture part skipped). Conor's talk is a clean fixed-camera talk with wide and close shots.
