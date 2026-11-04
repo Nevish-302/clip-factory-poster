@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 (batch 15)
+- Batch 15: 9 anime and pop-culture essay clips with the originality layer, blur mode, CC BY owner channel Beghast: 5 from "How One Anime Fixed Isekai's Main Issue" (HrTKzAlZ3Q4, prefixes isekai x2 and frieren x3, tag BEGHAST) and 4 from "De-Infantilizing STAR WARS (It Works)" (hL4IfoQzSSE, prefix starwars, tag STAR WARS ESSAY). Queued by add-batch.mjs (149 entries). Files: ~/Downloads/cc-clips/batch15-ready/ (720p), captions in docs/results/captions-batch-15.md, sources in batch15-sources.json.
+- Picked life-relevant lines (hard times are not a reason to wait for a fresh start, learn from failure, do not waste time with friends, change is slow, carry the people you met, show do not tell, people stay for people). Skipped lore, plot recap, the Disney quote montage, the Andor scene excerpts and the Mon Mothma monologue (pure film footage).
+- Copyright risk: every frame is studio footage (anime, Star Wars, Andor, Rogue One); CC BY covers only the creator. No baked-in subtitles seen on the contact sheets. Same stop rule as batch 13 applies if clips get muted. starwars_real_04 is 23.9 s (just under 25 s) and Star Wars relevance to a non-fan is the weakest part of this batch.
+- Whisper wrote Frieren as "Freerin": fixed in tx/HrTKzAlZ3Q4.json before building. Last word of every clip verified by transcribing the final 4 s: all complete. Venv ~/cc-venv12-b12/v.
+
 ## 2026-11-04 (batch 13)
 - Batch 13: 8 anime-essay clips (first anime/pop-culture batch) with the originality layer, blur mode, CC BY owner channel Sage's Rain: 5 from "The Philosophy of Madara Uchiha" (8_FenWC9Bc4, prefix madara) and 3 from "Itachi Uchiha, a sacrifice for love" (zhxtBW0HIbc, prefix itachi), tag SAGE'S RAIN. Queued 23-25 Nov by add-batch.mjs. Files: ~/Downloads/cc-clips/batch13-ready/, captions in docs/results/captions-batch-13.md.
 - Picked only life-relevant lines (trust and teamwork, owning your choices, everyone thinks they are right, accepting failure, smart is not mature, false either-or pressure, no one purely good or bad). Skipped lore, plot recap and the clan-massacre passages, so Itachi has 3 clips, not 4-5.

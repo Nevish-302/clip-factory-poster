@@ -84,3 +84,6 @@ Batch 7 (2026-11-04, originality layer on):
 | ieltsb_ | JvX6_hraSMM (IELTS Advantage, How To Speak Like The 1% Elite) | testmode_01, offtopic_02, coffee_03, memorize_04 | blur |
 | madara_ | 8_FenWC9Bc4 (Sage's Rain, Philosophy of Madara Uchiha) | behind_01, choice_02, right_03, force_04, failure_05 | blur (all studio footage; baked-in anime subtitles in some frames) |
 | itachi_ | zhxtBW0HIbc (Sage's Rain, Itachi, a sacrifice for love) | mature_01, options_02, gray_03 | blur (clan-massacre passages skipped) |
+| isekai_ | HrTKzAlZ3Q4 (Beghast, How One Anime Fixed Isekai's Main Issue) | owed_01, lesson_02 | blur (all studio footage) |
+| frieren_ | HrTKzAlZ3Q4 (same video) | time_03, brave_04, carry_05 | blur |
+| starwars_ | hL4IfoQzSSE (Beghast, De-Infantilizing Star Wars) | hand_01, show_02, people_03, real_04 | blur (Star Wars/Andor footage, creator's own title cards) |
