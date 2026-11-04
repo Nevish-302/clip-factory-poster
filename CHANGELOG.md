@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-04 (batch 11)
+- Batch 11: 9 minimalism clips with the originality layer, face-big, CC BY owner channel (Robin Greenfield): 4 from the tiny-house tour (XC3Stj33Gts, prefix robin) and 5 from "My 44 Possessions" backpack video (FqTkiLxIE9Y, prefix robinb), tag ROBIN GREENFIELD. Queued 20 Nov 20:00 to 22 Nov 13:00 (5 a day, free slots). Files in ~/Downloads/cc-clips/batch11-ready/, captions in docs/results/captions-batch-11.md.
+- Frame strip first: both vlogs are mostly him talking to camera (the tour also has b-roll and garden shots, the backpack video has table demos); the backpack video has a small green apple logo in the top-right corner of the source that face-big crops out. Picked only practical simple-living points (numbers, buy used, digital clutter, wardrobe, a downsizing story); skipped product mentions, donation and activist passages (tax resistance, land ownership, privilege), the toilet and death-bean segments.
+- robinb_networth_01 opens with about 5 s of overhead table b-roll (voice carries the claim) and robinb_pot_02 with pot close-ups; kept as demonstrations. Machine load was 90+ while transcribing (about 50 min per video), builds were fast once load dropped.
+
 ## 2026-11-04 (batch 10)
 - Batch 10: 10 startup and leadership clips with the originality layer, face-big, CC BY owner channels: 5 from Y Combinator "Lecture 1 - How to Start a Startup" (CBYhVcO4WgI, prefix yc, tag SAM ALTMAN) and 5 from the Marines channel "Leadership Lessons from Gen. James Mattis (Ret.)" (3EYU3VTI3IU, prefix mattis). Queued 18-20 Nov (5 slots a day, free slots). Files: ~/Downloads/cc-clips/batch10-ready/.
 - The YC lecture alternates slides and stage: a luma scan (slide frames are white) found the runs where Sam is on camera, and every clip lies inside one; a Stanford logo sits in the corner of the source but face-big crops it out. Dustin's half, slide-only passages and the abstract framework parts were skipped. Mattis is a clean studio talking head, no cutaways; Fallujah and combat answers were skipped (no politics or war).
