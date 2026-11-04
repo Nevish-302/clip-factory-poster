@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 (batch 9)
+- Batch 9: 7 public-speaking clips with the originality layer, 4 from Conor Neill "Improve Your Speaking" (c8_BIamLESg, prefix conor) and 3 from Project IDEA "Good Presentation VS Bad Presentation" (V8eLdbKXGzk, prefix idea), both CC BY owner channels. Queued by add-batch.mjs 15-16 Nov (5 slots a day, free slots; batch 8 fills other gaps).
+- Checked first: Project IDEA is a staged classroom skit with slides and audience cutaways but no burned-in captions or logos, so it was kept (blur mode, 3 clips from the feedback and stress-talk scenes; the skit's history-lecture part skipped). Conor's talk is a clean fixed-camera talk with wide and close shots.
+- Conor first built in face-big: Haar lost him in wide shots and clipped his face at the crop edge in close-ups, so all four were rebuilt in blur mode. Stress clip carries the Tele-MANAS/988 line.
+- Machine was heavily loaded by the parallel batch 8 agent (load 60-250): builds, encodes and each upload took many minutes; run took two sessions after a network outage. Files: ~/Downloads/cc-clips/batch9-ready/.
+
 ## 2026-11-04 (batch 7)
 - Batch 7: 9 everyday-psychology and habit clips with the originality layer, 5 from Psych2Go "8 Psychological Tricks That Actually Work" (4hG9wI5-_Lc, prefix psych) and 4 from "9 Little Habits To Have A Better Day" (C07DdQbnFMs, prefix psychb), both CC BY from the creator's own channel. Queued by add-batch.mjs from 13 Nov 20:00 to 15 Nov 13:00 (free slots, interleaved by source); videos in release clips-v1. Captions: docs/results/captions-batch-7.md, sources: batch7-sources.json.
 - Checked first: both videos are narrated animations with no burned-in subtitles or channel logos (only the creator's own title cards inside the picture), so neither was replaced. Blur mode for all clips. The TTS-style narration transcribed cleanly.

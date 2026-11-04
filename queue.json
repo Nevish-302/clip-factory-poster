@@ -1492,5 +1492,96 @@
     "posted": false,
     "results": {},
     "errors": {}
+  },
+  {
+    "id": "conor_webcam_01",
+    "file": "conor_webcam_01.mp4",
+    "caption": "Want to speak better in 10 days? Conor Neill's challenge: record yourself on your laptop webcam for three minutes a day and answer one question, like which value you would share with a child.\n\nSource: Improve Your Speaking (Conor Neill) (CC BY) https://www.youtube.com/watch?v=c8_BIamLESg\n\n#PublicSpeaking #Communication #SpeakingSkills #SelfImprovement #Practice #Reels",
+    "scheduledFor": "2026-11-15T16:30:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "idea_eyecontact_01",
+    "file": "idea_eyecontact_01.mp4",
+    "caption": "Reading from paper makes it feel like you are not talking to the room. Project IDEA's tip: look up every sentence or two and make eye contact with someone in the audience.\n\nSource: Good Presentation VS Bad Presentation (Project IDEA) (CC BY) https://www.youtube.com/watch?v=V8eLdbKXGzk\n\n#PublicSpeaking #Presentation #Communication #EyeContact #Confidence #Reels",
+    "scheduledFor": "2026-11-15T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "conor_speaking_02",
+    "file": "conor_speaking_02.mp4",
+    "caption": "Watching Bill Clinton on YouTube will not make you a speaker. Conor Neill: you only become one by speaking, and years of meetings alone do not make you good at them.\n\nSource: Improve Your Speaking (Conor Neill) (CC BY) https://www.youtube.com/watch?v=c8_BIamLESg\n\n#PublicSpeaking #Communication #Speaking #SelfImprovement #Learning #Reels",
+    "scheduledFor": "2026-11-15T22:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "idea_story_02",
+    "file": "idea_story_02.mp4",
+    "caption": "Want to look more relaxed? Smile, and connect with listeners by using a personal story or experience as your example. Feedback from Project IDEA's presentation class.\n\nSource: Good Presentation VS Bad Presentation (Project IDEA) (CC BY) https://www.youtube.com/watch?v=V8eLdbKXGzk\n\n#PublicSpeaking #Presentation #Storytelling #Communication #Confidence #Reels",
+    "scheduledFor": "2026-11-16T09:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "conor_pottery_03",
+    "file": "conor_pottery_03.mp4",
+    "caption": "A pottery class was split: one half graded on the weight of pots made, the other on one perfect pot. The best pots came from the group that just kept making them. Conor Neill's lesson for speaking practice.\n\nSource: Improve Your Speaking (Conor Neill) (CC BY) https://www.youtube.com/watch?v=c8_BIamLESg\n\n#Practice #PublicSpeaking #Learning #Creativity #Mindset #Reels",
+    "scheduledFor": "2026-11-16T13:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "idea_stress_03",
+    "file": "idea_stress_03.mp4",
+    "caption": "A student's practice talk: work after school, grades dropped, sleep and eating suffered, then a counselor helped him cut hours and get exercise. His closing line: recognize when you are stressed and ask for help. If you are struggling: India Tele-MANAS 14416, US 988.\n\nSource: Good Presentation VS Bad Presentation (Project IDEA) (CC BY) https://www.youtube.com/watch?v=V8eLdbKXGzk\n\n#Stress #MentalHealth #StudentLife #PublicSpeaking #AskForHelp #Reels",
+    "scheduledFor": "2026-11-16T16:30:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
+  },
+  {
+    "id": "conor_practice_04",
+    "file": "conor_practice_04.mp4",
+    "caption": "The greatest musicians sound awful when they practice, because they try things they cannot play yet. Conor Neill says do the same on your webcam: experiment, then delete.\n\nSource: Improve Your Speaking (Conor Neill) (CC BY) https://www.youtube.com/watch?v=c8_BIamLESg\n\n#Practice #PublicSpeaking #Learning #SelfImprovement #Communication #Reels",
+    "scheduledFor": "2026-11-16T20:00:00+05:30",
+    "targets": [
+      "instagram_reel",
+      "facebook_reel"
+    ],
+    "posted": false,
+    "results": {},
+    "errors": {}
   }
 ]

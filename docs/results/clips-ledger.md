@@ -72,3 +72,5 @@ Batch 6 (2026-11-04, originality layer on):
 Batch 7 (2026-11-04, originality layer on):
 | psych_ | 4hG9wI5-_Lc (Psych2Go, 8 psychological tricks) | name_01, askbig_02, mirror_03, nod_04, gum_05 | blur (dropped on purpose: exhausted-favor, hand-over, dream-self) |
 | psychb_ | C07DdQbnFMs (Psych2Go, 9 little habits) | onething_01, prep_02, relax_03, hype_04 | blur |
+| conor_ | c8_BIamLESg (Conor Neill, Improve Your Speaking) | webcam_01, speaking_02, pottery_03, practice_04 | blur (face-big lost him) |
+| idea_ | V8eLdbKXGzk (Project IDEA, Good vs Bad Presentation) | eyecontact_01, story_02, stress_03 | blur (staged skit, no burned-in text) |
