@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-04 (batch 12)
+- Batch 12: 7 English/IELTS speaking clips with the originality layer, blur mode, from IELTS Advantage (owner channel, CC BY confirmed by dl.py): 3 from "IELTS Speaking Secrets Every Student Should Learn" (ELxGmf9f_ZM, prefix ielts) and 4 from "How To Speak Like The 1% Elite" (JvX6_hraSMM, prefix ieltsb). Queued by add-batch.mjs into the first free slots. Captions: docs/results/captions-batch-12.md, sources: batch12-sources.json. Files: ~/Downloads/cc-clips/batch12-ready/ (720p).
+- Picked talk-to-camera videos because the channel's other hits are examiner/student mock tests. ELxGmf9f_ZM uses movie re-enactments with burned-in subtitles and TRAP 1-3 corner icons: the chef-story clip was built, seen with the film's subtitles competing with ours, and dropped; ielts_words_04 shows a short screen capture with a subtitle and is the weakest kept clip. Tips only, no score promises in hooks (the band-zero line is the speaker's claim).
+- Tooling: the python3.12 venv from earlier batches was gone, recreated it. Builds took about a minute each at load 50. Sources deleted, transcripts kept.
+
 ## 2026-11-04 (batch 11)
 - Batch 11: 9 minimalism clips with the originality layer, face-big, CC BY owner channel (Robin Greenfield): 4 from the tiny-house tour (XC3Stj33Gts, prefix robin) and 5 from "My 44 Possessions" backpack video (FqTkiLxIE9Y, prefix robinb), tag ROBIN GREENFIELD. Queued 20 Nov 20:00 to 22 Nov 13:00 (5 a day, free slots). Files in ~/Downloads/cc-clips/batch11-ready/, captions in docs/results/captions-batch-11.md.
 - Frame strip first: both vlogs are mostly him talking to camera (the tour also has b-roll and garden shots, the backpack video has table demos); the backpack video has a small green apple logo in the top-right corner of the source that face-big crops out. Picked only practical simple-living points (numbers, buy used, digital clutter, wardrobe, a downsizing story); skipped product mentions, donation and activist passages (tax resistance, land ownership, privilege), the toilet and death-bean segments.

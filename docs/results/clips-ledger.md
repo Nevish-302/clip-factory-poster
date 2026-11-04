@@ -80,3 +80,5 @@ Batch 7 (2026-11-04, originality layer on):
 | mattis_ | 3EYU3VTI3IU (Marines, Leadership Lessons from Gen. Mattis) | improve_01, reading_02, trust_03, reason_04, excuse_05 | face-big |
 | robin_ | XC3Stj33Gts (Robin Greenfield, tiny house tour) | possessions_01, tech_02, photos_03, clothes_04 | face-big |
 | robinb_ | FqTkiLxIE9Y (Robin Greenfield, 44 possessions) | networth_01, pot_02, computer_03, story_04, slow_05 | face-big |
+| ielts_ | ELxGmf9f_ZM (IELTS Advantage, IELTS Speaking Secrets) | worst_01, hardq_02, words_04 | blur (source has corner TRAP icons; dropped chef_03: burned-in movie subtitles) |
+| ieltsb_ | JvX6_hraSMM (IELTS Advantage, How To Speak Like The 1% Elite) | testmode_01, offtopic_02, coffee_03, memorize_04 | blur |
