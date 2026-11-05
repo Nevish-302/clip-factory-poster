@@ -1415,8 +1415,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "4059901827646565"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psych_name_01",
@@ -1428,8 +1431,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2362789444576106"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psychb_onething_01",
@@ -1441,8 +1447,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "1850066012793175"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psych_askbig_02",
@@ -1454,8 +1463,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2110842519804541"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psychb_prep_02",
