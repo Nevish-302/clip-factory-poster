@@ -742,12 +742,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2039103336806175"
+      "facebook_reel": "2039103336806175",
+      "instagram_reel": "17947683816368316"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-06T05:29:17.984Z"
   },
   {
     "id": "nadella_copilot_02",
@@ -758,12 +760,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1132635636394392"
+      "facebook_reel": "1132635636394392",
+      "instagram_reel": "17906917719356294"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-06T05:30:51.340Z"
   },
   {
     "id": "mills_grateful_02",
@@ -774,12 +778,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1997786824250962"
+      "facebook_reel": "1997786824250962",
+      "instagram_reel": "18099307517123115"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-06T05:32:21.729Z"
   },
   {
     "id": "karp_bubble_02",
@@ -790,12 +796,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1010153161451273"
+      "facebook_reel": "1010153161451273",
+      "instagram_reel": "17969488872186219"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-06T05:34:00.675Z"
   },
   {
     "id": "ma15_search_03",
@@ -1094,12 +1102,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2384508428985463"
+      "facebook_reel": "2384508428985463",
+      "instagram_reel": "18078412475771230"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-06T05:35:20.251Z"
   },
   {
     "id": "sadhgurub_memory_04",
@@ -1110,12 +1120,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1140906925132723"
+      "facebook_reel": "1140906925132723",
+      "instagram_reel": "18143031889614881"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-06T05:37:09.910Z"
   },
   {
     "id": "sadhguru_people_02",
