@@ -814,12 +814,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2200875930809752"
+      "facebook_reel": "2200875930809752",
+      "instagram_reel": "18159884311490002"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:11:53.427Z"
   },
   {
     "id": "ma18_wise_03",
@@ -830,12 +832,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1126341729977387"
+      "facebook_reel": "1126341729977387",
+      "instagram_reel": "18130498639850168"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:12:41.774Z"
   },
   {
     "id": "harari_algorithm_03",
@@ -846,12 +850,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1124372590343160"
+      "facebook_reel": "1124372590343160",
+      "instagram_reel": "17971098693009106"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:13:32.854Z"
   },
   {
     "id": "nadella_people_03",
@@ -862,12 +868,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1078898018444218"
+      "facebook_reel": "1078898018444218",
+      "instagram_reel": "18093672632290216"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:14:21.593Z"
   },
   {
     "id": "mills_oscar_03",
@@ -878,12 +886,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2675461209576201"
+      "facebook_reel": "2675461209576201",
+      "instagram_reel": "18061165430797500"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:15:09.265Z"
   },
   {
     "id": "karp_sales_03",
@@ -1138,12 +1148,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1672786377769510"
+      "facebook_reel": "1672786377769510",
+      "instagram_reel": "18120769537777615"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:15:57.511Z"
   },
   {
     "id": "sadhgurub_issues_05",
@@ -1154,12 +1166,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "2193907311515124"
+      "facebook_reel": "2193907311515124",
+      "instagram_reel": "18115166270143208"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:16:46.837Z"
   },
   {
     "id": "sadhguru_coworkers_03",
@@ -1170,12 +1184,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "3141470389388676"
+      "facebook_reel": "3141470389388676",
+      "instagram_reel": "18003106275040419"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:17:33.667Z"
   },
   {
     "id": "cellini_routine_01",
@@ -1186,12 +1202,14 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1116346331007348"
+      "facebook_reel": "1116346331007348",
+      "instagram_reel": "17935369854410207"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-07T20:18:22.827Z"
   },
   {
     "id": "kharma_pomodoro_02",
