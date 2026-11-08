@@ -1,0 +1,9 @@
+{
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "poster",
+      "ignore": ["node_modules", "*.log", "test.mjs", ".env.local"]
+    }
+  ]
+}

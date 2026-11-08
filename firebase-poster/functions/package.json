@@ -1,0 +1,13 @@
+{
+  "name": "clip-poster-functions",
+  "description": "Not A Clip Factory: posts queued Reels. Isolated codebase 'poster'; shares nothing with the app's functions.",
+  "type": "module",
+  "main": "index.js",
+  "engines": { "node": "22" },
+  "scripts": { "test": "node test.mjs" },
+  "dependencies": {
+    "firebase-admin": "^13.10.0",
+    "firebase-functions": "^6.1.0"
+  },
+  "private": true
+}
