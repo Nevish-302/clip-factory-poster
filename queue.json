@@ -749,7 +749,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-06T05:29:17.984Z"
+    "postedAt": "2026-11-06T05:29:17.984Z",
+    "assetDeleted": true
   },
   {
     "id": "nadella_copilot_02",
@@ -767,7 +768,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-06T05:30:51.340Z"
+    "postedAt": "2026-11-06T05:30:51.340Z",
+    "assetDeleted": true
   },
   {
     "id": "mills_grateful_02",
@@ -785,7 +787,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-06T05:32:21.729Z"
+    "postedAt": "2026-11-06T05:32:21.729Z",
+    "assetDeleted": true
   },
   {
     "id": "karp_bubble_02",
@@ -803,7 +806,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-06T05:34:00.675Z"
+    "postedAt": "2026-11-06T05:34:00.675Z",
+    "assetDeleted": true
   },
   {
     "id": "ma15_search_03",
@@ -821,7 +825,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:11:53.427Z"
+    "postedAt": "2026-11-07T20:11:53.427Z",
+    "assetDeleted": true
   },
   {
     "id": "ma18_wise_03",
@@ -839,7 +844,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:12:41.774Z"
+    "postedAt": "2026-11-07T20:12:41.774Z",
+    "assetDeleted": true
   },
   {
     "id": "harari_algorithm_03",
@@ -857,7 +863,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:13:32.854Z"
+    "postedAt": "2026-11-07T20:13:32.854Z",
+    "assetDeleted": true
   },
   {
     "id": "nadella_people_03",
@@ -875,7 +882,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:14:21.593Z"
+    "postedAt": "2026-11-07T20:14:21.593Z",
+    "assetDeleted": true
   },
   {
     "id": "mills_oscar_03",
@@ -893,7 +901,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:15:09.265Z"
+    "postedAt": "2026-11-07T20:15:09.265Z",
+    "assetDeleted": true
   },
   {
     "id": "karp_sales_03",
@@ -911,7 +920,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-08T06:04:36.465Z"
+    "postedAt": "2026-11-08T06:04:36.465Z",
+    "assetDeleted": true
   },
   {
     "id": "ma15_alibaba_04",
@@ -926,8 +936,13 @@
     "results": {
       "facebook_reel": "1116867397877202"
     },
-    "errors": {},
-    "facebookScheduled": true
+    "errors": {
+      "instagram_reel": "Upload failed (400): {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+    },
+    "facebookScheduled": true,
+    "attempts": {
+      "instagram_reel": 1
+    }
   },
   {
     "id": "ma18_customer_04",
@@ -1121,7 +1136,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-06T05:35:20.251Z"
+    "postedAt": "2026-11-06T05:35:20.251Z",
+    "assetDeleted": true
   },
   {
     "id": "sadhgurub_memory_04",
@@ -1139,7 +1155,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-06T05:37:09.910Z"
+    "postedAt": "2026-11-06T05:37:09.910Z",
+    "assetDeleted": true
   },
   {
     "id": "sadhguru_people_02",
@@ -1157,7 +1174,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:15:57.511Z"
+    "postedAt": "2026-11-07T20:15:57.511Z",
+    "assetDeleted": true
   },
   {
     "id": "sadhgurub_issues_05",
@@ -1175,7 +1193,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:16:46.837Z"
+    "postedAt": "2026-11-07T20:16:46.837Z",
+    "assetDeleted": true
   },
   {
     "id": "sadhguru_coworkers_03",
@@ -1193,7 +1212,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:17:33.667Z"
+    "postedAt": "2026-11-07T20:17:33.667Z",
+    "assetDeleted": true
   },
   {
     "id": "cellini_routine_01",
@@ -1211,7 +1231,8 @@
     },
     "errors": {},
     "facebookScheduled": true,
-    "postedAt": "2026-11-07T20:18:22.827Z"
+    "postedAt": "2026-11-07T20:18:22.827Z",
+    "assetDeleted": true
   },
   {
     "id": "kharma_pomodoro_02",
@@ -1222,12 +1243,15 @@
       "instagram_reel",
       "facebook_reel"
     ],
-    "posted": false,
+    "posted": true,
     "results": {
-      "facebook_reel": "1431084621958577"
+      "facebook_reel": "1431084621958577",
+      "instagram_reel": "18118189364004973"
     },
     "errors": {},
-    "facebookScheduled": true
+    "facebookScheduled": true,
+    "postedAt": "2026-11-08T13:16:07.490Z",
+    "assetDeleted": true
   },
   {
     "id": "cellini_verbal_02",
@@ -1511,8 +1535,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "4514793158759994"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psych_mirror_03",
@@ -1524,8 +1551,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "879807955224402"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psychb_relax_03",
@@ -1537,8 +1567,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2836977060032393"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psych_nod_04",
@@ -1550,8 +1583,11 @@
       "facebook_reel"
     ],
     "posted": false,
-    "results": {},
-    "errors": {}
+    "results": {
+      "facebook_reel": "2395929727813999"
+    },
+    "errors": {},
+    "facebookScheduled": true
   },
   {
     "id": "psychb_hype_04",
