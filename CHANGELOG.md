@@ -136,3 +136,9 @@
 - Bucket is now the source of truth for queue.json (results). Workflow: `node firebase-poster/sync.mjs pull` -> add-batch.mjs -> `node firebase-poster/sync.mjs push`. Clips are deleted from the bucket the moment they are done everywhere.
 - post.yml schedule removed (manual dispatch only) so reels cannot post twice. First run posted 1 reel, scheduled 4 on Facebook; ma15_alibaba_04 failed Instagram processing (400), retries up to 3 then parks.
 - Local posting from the Mac (post-due.mjs) must not be used any more; it would post from a stale queue.
+
+## 2026-11-08 (Firebase poster: expected cost)
+- Expected cost of `clipPosterTick`: about $0 a month, under $1 at worst. Confirmed free quotas (firebase.google.com/pricing, Blaze): 2M calls, 400K GB-seconds, 200K CPU-seconds, 5 GB outbound; storage 5 GB free only in us-central1 (the bucket is there).
+- Our use: about 900 calls/month (30 ticks a day, most finish in a second), about 20K CPU-seconds, about 2.4 GB outbound, about 1 GB of clips falling as they post and are deleted.
+- Not confirmed (Google pricing pages would not load): Cloud Scheduler free tier (believed 3 jobs per account, then about $0.10 a month; the project already had 4 scheduled jobs, ours is the 5th), Secret Manager and build image storage (expected free).
+- Check: console.cloud.google.com/billing for gymapp-c9c34, cost by service, after about a week. Anything beyond about $0.10 needs tracing.
