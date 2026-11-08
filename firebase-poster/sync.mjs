@@ -12,7 +12,8 @@ const g = (...a) => sh("gcloud", ["storage", ...a], { stdio: "inherit" });
 if (process.argv[2] === "pull") { g("cp", `${B}/queue.json`, q); process.exit(0); }
 if (process.argv[2] !== "push") { console.error("usage: node sync.mjs push|pull"); process.exit(1); }
 const queue = JSON.parse(fs.readFileSync(q, "utf8"));
-const have = new Set(sh("gcloud", ["storage", "ls", `${B}/clips/`], { encoding: "utf8" }).split("\n").map((l) => l.split("/").pop()).filter(Boolean));
+let listing = ""; try { listing = sh("gcloud", ["storage", "ls", `${B}/clips/`], { encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }); } catch {} // empty prefix makes ls fail
+const have = new Set(listing.split("\n").map((l) => l.split("/").pop()).filter(Boolean));
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "clips-"));
 for (const e of queue) {
   if (e.assetDeleted || (e.targets.every((t) => e.results[t])) || have.has(e.file)) continue;

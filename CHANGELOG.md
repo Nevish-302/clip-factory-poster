@@ -130,3 +130,9 @@
 - Only fix needed: madara_failure_05 posted right after madara_force_04 (25 Nov), swapped slots with starwars_hand_01 so no source posts twice in a row. No posted or FB-scheduled entry was moved.
 - huang_code_03 and jackma_beach_04 show `posted: false` but have IG and FB ids in `results` (already live); not re-posted.
 - post.yml cron `*/30 3-17 * * *` still covers 08:30-23:00 IST. Anime/film-essay clips (batches 13-17, from 23 Nov) are the copyright risk: stop that track if two get muted or removed.
+
+## 2026-11-08 (posting moved to Firebase)
+- GitHub Actions blocked account-wide ("account is locked due to a billing issue"), so posting moved to the Firebase function `clipPosterTick` (codebase `poster`, project gymapp-c9c34, us-central1; see firebase-poster/README.md). Isolated from the app: own bucket gs://gymapp-c9c34-clip-poster, own secret CLIP_META_ACCESS_TOKEN, own service account clip-poster, deploys only functions:poster.
+- Bucket is now the source of truth for queue.json (results). Workflow: `node firebase-poster/sync.mjs pull` -> add-batch.mjs -> `node firebase-poster/sync.mjs push`. Clips are deleted from the bucket the moment they are done everywhere.
+- post.yml schedule removed (manual dispatch only) so reels cannot post twice. First run posted 1 reel, scheduled 4 on Facebook; ma15_alibaba_04 failed Instagram processing (400), retries up to 3 then parks.
+- Local posting from the Mac (post-due.mjs) must not be used any more; it would post from a stale queue.

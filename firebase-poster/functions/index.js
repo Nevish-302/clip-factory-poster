@@ -39,7 +39,7 @@ export const clipPosterTick = onSchedule(
     maxInstances: 1,
     retryCount: 0,
     secrets: [TOKEN],
-    serviceAccount: "clip-poster", // dedicated least-privilege account, created at activation
+    serviceAccount: "clip-poster@gymapp-c9c34.iam.gserviceaccount.com", // dedicated least-privilege account, created at activation
   },
   async () => {
     try {

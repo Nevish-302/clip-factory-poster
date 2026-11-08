@@ -24,6 +24,7 @@ export async function tick({ store, pub, now = new Date(), maxIg = 2, fbLimit = 
     }
     if (done(e)) { e.posted = true; e.postedAt = new Date().toISOString(); }
     await save(); // save after every clip so a crash never causes a double post
+    if (done(e) && !e.assetDeleted) { await store.deleteClip(e.file); e.assetDeleted = true; stats.deleted++; await save(); } // delete the video the moment it is done everywhere
   }
 
   // 2. Facebook: schedule natively, stop at first failure (Meta rate-limits uploads).
